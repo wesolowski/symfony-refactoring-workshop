@@ -1,0 +1,72 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Article{% endblock %}
+
+{% block body %}
+    <h1>Article</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ article.id }}</td>
+            </tr>
+            <tr>
+                <th>Artnum</th>
+                <td>{{ article.artnum }}</td>
+            </tr>
+            <tr>
+                <th>Parentid</th>
+                <td>{{ article.parentid }}</td>
+            </tr>
+            <tr>
+                <th>Asy_packaging</th>
+                <td>{{ article.asyPackaging }}</td>
+            </tr>
+            <tr>
+                <th>Asy_min_order</th>
+                <td>{{ article.asyMinOrder }}</td>
+            </tr>
+            <tr>
+                <th>Asy_installation</th>
+                <td>{{ article.asyInstallation }}</td>
+            </tr>
+            <tr>
+                <th>Title</th>
+                <td>{{ article.title }}</td>
+            </tr>
+            <tr>
+                <th>Shortdesc</th>
+                <td>{{ article.shortdesc|raw }}</td>
+            </tr>
+            <tr>
+                <th>Longdesc</th>
+                <td>{{ article.longdesc|raw }}</td>
+            </tr>
+            <tr>
+                <th>Unitname</th>
+                <td>{{ article.unitname }}</td>
+            </tr>
+            <tr>
+                <th>Asy_deltext_standard_1</th>
+                <td>{{ article.asyDeltextStandard1|raw }}</td>
+            </tr>
+            <tr>
+                <th>Alphabytes_variantenmerkmale</th>
+                <td>{{ article.alphabytesVariantenmerkmale }}</td>
+            </tr>
+            <tr>
+                <th>Asy_deltext_standard</th>
+                <td>{{ article.asyDeltextStandard|raw }}</td>
+            </tr>
+            <tr>
+                <th>Varname</th>
+                <td>{{ article.varname }}</td>
+            </tr>
+            <tr>
+                <th>Varselect</th>
+                <td>{{ article.varselect }}</td>
+            </tr>
+        </tbody>
+    </table>
+{% endblock %}

@@ -16,17 +16,7 @@ class Object2attribute
      * @ORM\Column(type="integer")
      */
     private $id;
-
-    /**
-     * @ORM\Column(type="integer")
-     */
-    private $objectid;
-
-    /**
-     * @ORM\Column(type="integer")
-     */
-    private $attrid;
-
+    
     /**
      * @ORM\Column(type="boolean", nullable=true)
      */
@@ -42,33 +32,21 @@ class Object2attribute
      */
     private $value_2;
 
+    /**
+     * @ORM\ManyToOne(targetEntity=Article::class, inversedBy="attribute")
+     * @ORM\JoinColumn(nullable=false)
+     */
+    private $object;
+
+    /**
+     * @ORM\ManyToOne(targetEntity=Attribute::class)
+     * @ORM\JoinColumn(nullable=false)
+     */
+    private $attr;
+
     public function getId(): ?int
     {
         return $this->id;
-    }
-
-    public function getObjectid(): ?int
-    {
-        return $this->objectid;
-    }
-
-    public function setObjectid(int $objectid): self
-    {
-        $this->objectid = $objectid;
-
-        return $this;
-    }
-
-    public function getAttrid(): ?int
-    {
-        return $this->attrid;
-    }
-
-    public function setAttrid(int $attrid): self
-    {
-        $this->attrid = $attrid;
-
-        return $this;
     }
 
     public function getAlphaVariantmerkmal(): ?bool
@@ -103,6 +81,30 @@ class Object2attribute
     public function setValue2(?string $value_2): self
     {
         $this->value_2 = $value_2;
+
+        return $this;
+    }
+
+    public function getObject(): ?Article
+    {
+        return $this->object;
+    }
+
+    public function setObject(?Article $object): self
+    {
+        $this->object = $object;
+
+        return $this;
+    }
+
+    public function getAttr(): ?Attribute
+    {
+        return $this->attr;
+    }
+
+    public function setAttr(?Attribute $attr): self
+    {
+        $this->attr = $attr;
 
         return $this;
     }

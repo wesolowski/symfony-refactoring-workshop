@@ -3,6 +3,8 @@
 namespace App\Entity;
 
 use App\Repository\ArticleRepository;
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
@@ -86,6 +88,26 @@ class Article
      * @ORM\Column(type="string", length=255, nullable=true)
      */
     private $asy_deltext_standard;
+
+    /**
+     * @ORM\OneToMany(targetEntity=Object2attribute::class, mappedBy="object")
+     */
+    private $attribute;
+
+    /**
+     * @ORM\Column(type="string", length=255, nullable=true)
+     */
+    private $varname;
+
+    /**
+     * @ORM\Column(type="string", length=255, nullable=true)
+     */
+    private $varselect;
+
+    public function __construct()
+    {
+        $this->attribute = new ArrayCollection();
+    }
 
     public function getId(): ?int
     {
@@ -256,6 +278,61 @@ class Article
     public function setAsyDeltextStandard(?string $asy_deltext_standard): self
     {
         $this->asy_deltext_standard = $asy_deltext_standard;
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Object2attribute[]
+     */
+    public function getAttribute(): Collection
+    {
+        return $this->attribute;
+    }
+
+    public function addAttribute(Object2attribute $attribute): self
+    {
+        if (!$this->attribute->contains($attribute)) {
+            $this->attribute[] = $attribute;
+            $attribute->setObject($this);
+        }
+
+        return $this;
+    }
+
+    public function removeAttribute(Object2attribute $attribute): self
+    {
+        if ($this->attribute->contains($attribute)) {
+            $this->attribute->removeElement($attribute);
+            // set the owning side to null (unless already changed)
+            if ($attribute->getObject() === $this) {
+                $attribute->setObject(null);
+            }
+        }
+
+        return $this;
+    }
+
+    public function getVarname(): ?string
+    {
+        return $this->varname;
+    }
+
+    public function setVarname(?string $varname): self
+    {
+        $this->varname = $varname;
+
+        return $this;
+    }
+
+    public function getVarselect(): ?string
+    {
+        return $this->varselect;
+    }
+
+    public function setVarselect(?string $varselect): self
+    {
+        $this->varselect = $varselect;
 
         return $this;
     }
