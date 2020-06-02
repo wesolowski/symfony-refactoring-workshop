@@ -1,0 +1,4381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Produkt key="99468718" Name="99468718" Variantenmerkmale="Farbe">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1600</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Sitz-Stehschreibtisch</Wert_xx>
+        <Wert_nl>Bureau-MULTI</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Holz</Wert_xx>
+        <Wert_nl>hout</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99385565" Name="99385565" Variantenmerkmale="Farbe, Gestellfarbe">
+    <Merkmale>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Schreibtisch, Rollcontainer, B&amp;uuml;rodrehstuhl</Wert_xx>
+        <Wert_nl>Schreibtisch, Rollcontainer, B&amp;uuml;rodrehstuhl</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99767788" Name="99767788" Variantenmerkmale="Armlehnen, Material">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>505</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>6,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>830</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>4,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>4,00</Wert>
+      </Merkmal>
+      <Merkmal key="Rückenlehnenhöhe" Name="Rückenlehnenhöhe">
+        <Wert>340</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzbreite" Name="Sitzbreite">
+        <Wert>450</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzhöhe" Name="Sitzhöhe">
+        <Wert>470</Wert>
+      </Merkmal>
+      <Merkmal key="Sitztiefe" Name="Sitztiefe">
+        <Wert>470</Wert>
+      </Merkmal>
+      <Merkmal key="Stapelbar_bis" Name="Stapelbar bis">
+        <Wert>6</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>565</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Super Teilnehmerstuhl MEGA - Echt-/Kunstleder-Bezug</Wert_xx>
+        <Wert_nl>stoel II</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ergonomie" Name="Ergonomie">
+        <Wert_xx>PLUS</Wert_xx>
+        <Wert_nl>PLUS</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99208031" Name="99208031" Variantenmerkmale="Farbe, Gestellfarbe">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1000</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>16</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>740</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>1000</Wert>
+      </Merkmal>
+      <Merkmal key="Anzahl_Stützfüße" Name="Anzahl Stützfüße">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Exklusiv_bei_SHOP-X" Name="Exklusiv bei SHOP-X">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Made_in_Germany" Name="Made in Germany">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>platten f&amp;uuml;r Mega-Tische</Wert_xx>
+        <Wert_nl>bladen voor Mega bureaus</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausstattung" Name="Ausstattung">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>St&amp;uuml;tzfu&amp;szlig;</Wert_xx>
+        <Wert_nl>steunpoot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Holz</Wert_xx>
+        <Wert_nl>hout</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialeigenschaft" Name="Materialeigenschaft">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialzusammensetzung" Name="Materialzusammensetzung">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>platte Dreiviertelkreis</Wert_xx>
+        <Wert_nl>aanbouwblad 3/4 circle</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99204200" Name="99204200" Variantenmerkmale="Farbe, Gestellfarbe">
+    <Merkmale>
+      <Merkmal key="Beständigkeit_in_Scheuertouren" Name="Beständigkeit in Scheuertouren">
+        <Wert>50000</Wert>
+      </Merkmal>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>500</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>6</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>830</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>4,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>4,00</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzbreite" Name="Sitzbreite">
+        <Wert>450</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzhöhe" Name="Sitzhöhe">
+        <Wert>470</Wert>
+      </Merkmal>
+      <Merkmal key="Sitztiefe" Name="Sitztiefe">
+        <Wert>460</Wert>
+      </Merkmal>
+      <Merkmal key="Stapelbar_bis" Name="Stapelbar bis">
+        <Wert>6</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>470</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Marke" Name="Marke">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl ohne Armlehnen</Wert_xx>
+        <Wert_nl>stoel </Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>ohne Armlehnen</Wert_xx>
+        <Wert_nl>zonder armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ergonomie" Name="Ergonomie">
+        <Wert_xx>PLUS</Wert_xx>
+        <Wert_nl>PLUS</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Feuersicherung" Name="Feuersicherung">
+        <Wert_xx>EN 1021-1 Zigarettenglut, EN 1021-2 Streichholz</Wert_xx>
+        <Wert_nl>EN 1021-1 sigarettengloed, EN 1021-2 lucifers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Stoff</Wert_xx>
+        <Wert_nl>stof</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialeigenschaft" Name="Materialeigenschaft">
+        <Wert_xx>hochbelastbarer, flammhemmender Bezugsstoff</Wert_xx>
+        <Wert_nl>hoogbelastbare brandvertragende bekledingsstof</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialzusammensetzung" Name="Materialzusammensetzung">
+        <Wert_xx>100% Polyester</Wert_xx>
+        <Wert_nl>100% polyester</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99204760" Name="99204760" Variantenmerkmale="Farbe, Gestellfarbe">
+    <Merkmale>
+      <Merkmal key="Beständigkeit_in_Scheuertouren" Name="Beständigkeit in Scheuertouren">
+        <Wert>50000</Wert>
+      </Merkmal>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>500</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>6,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>830</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>4,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>4,00</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzbreite" Name="Sitzbreite">
+        <Wert>450</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzhöhe" Name="Sitzhöhe">
+        <Wert>470</Wert>
+      </Merkmal>
+      <Merkmal key="Sitztiefe" Name="Sitztiefe">
+        <Wert>460</Wert>
+      </Merkmal>
+      <Merkmal key="Stapelbar_bis" Name="Stapelbar bis">
+        <Wert>6</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>470</Wert>
+      </Merkmal>
+      <Merkmal key="Bestseller" Name="Bestseller">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl </Wert_xx>
+        <Wert_nl>stoel met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausstattung" Name="Ausstattung">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ergonomie" Name="Ergonomie">
+        <Wert_xx>PLUS</Wert_xx>
+        <Wert_nl>PLUS</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Feuersicherung" Name="Feuersicherung">
+        <Wert_xx>EN 1021-1 Zigarettenglut, EN 1021-2 Streichholz</Wert_xx>
+        <Wert_nl>EN 1021-1 sigarettengloed, EN 1021-2 lucifers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Stoff</Wert_xx>
+        <Wert_nl>stof</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialeigenschaft" Name="Materialeigenschaft">
+        <Wert_xx>hochbelastbarer, flammhemmender Bezugsstoff</Wert_xx>
+        <Wert_nl>hoogbelastbare brandvertragende bekledingsstof</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialzusammensetzung" Name="Materialzusammensetzung">
+        <Wert_xx>100% Polyester</Wert_xx>
+        <Wert_nl>100% polyester</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99209624" Name="99209624" Variantenmerkmale="Farbe">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1600</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>215</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>740</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Schreibtisch Mega</Wert_xx>
+        <Wert_nl>Bureau-4</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Holz</Wert_xx>
+        <Wert_nl>hout</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99385561" Name="99385561" Variantenmerkmale="Farbe, Gestellfarbe">
+    <Merkmale>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Schreibtisch LOLO</Wert_xx>
+        <Wert_nl>Angebot Schreibtisch LOLO</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <UP_Selling>
+      <UP_Seller type="Produkt" key="99385565"></UP_Seller>
+    </UP_Selling>
+  </Produkt>
+  <Produkt key="99767880" Name="99767880" Variantenmerkmale="Variante">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>1900</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte BOBO - optional dimmbar</Wert_xx>
+        <Wert_nl>Stalamp BOBO</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>aluminium</Wert_xx>
+        <Wert_nl>aluminium</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Fuß" Name="Fuß">
+        <Wert_xx>Standfu&amp;szlig;</Wert_xx>
+        <Wert_nl>steunpoot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99374694" Name="99374694" Variantenmerkmale="Farbe, Gestellfarbe">
+    <Merkmale>
+      <Merkmal key="Beständigkeit_in_Scheuertouren" Name="Beständigkeit in Scheuertouren">
+        <Wert>40000</Wert>
+      </Merkmal>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>560</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>9</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>845</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>4,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>4,00</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzbreite" Name="Sitzbreite">
+        <Wert>490</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzhöhe" Name="Sitzhöhe">
+        <Wert>460</Wert>
+      </Merkmal>
+      <Merkmal key="Sitztiefe" Name="Sitztiefe">
+        <Wert>470</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>615</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Marke" Name="Marke">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger TopGun</Wert_xx>
+        <Wert_nl>stoel TopGun</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ergonomie" Name="Ergonomie">
+        <Wert_xx>PLUS</Wert_xx>
+        <Wert_nl>PLUS</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>Schwinger</Wert_xx>
+        <Wert_nl>sledeonderstel</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Stoff</Wert_xx>
+        <Wert_nl>stof</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialeigenschaft" Name="Materialeigenschaft">
+        <Wert_xx>hochbelastbarer Bezugsstoff</Wert_xx>
+        <Wert_nl>hoogbelastbare bekledingsstof</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialzusammensetzung" Name="Materialzusammensetzung">
+        <Wert_xx>100% Polyester</Wert_xx>
+        <Wert_nl>100% polyester</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99920582" Name="99920582" Variantenmerkmale="Ausführung">
+    <Merkmale>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Standleuchte  Konstantlichtregelung</Wert_xx>
+        <Wert_nl>Standleuchte  Konstantlichtregelung</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Silber</Wert_xx>
+        <Wert_nl>zilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99220768" Name="99220768" Variantenmerkmale="Farbe, Gestellfarbe">
+    <Merkmale>
+      <Merkmal key="Beständigkeit_in_Scheuertouren" Name="Beständigkeit in Scheuertouren">
+        <Wert>50000</Wert>
+      </Merkmal>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>995</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>10,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>830</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>2,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>2,00</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzbreite" Name="Sitzbreite">
+        <Wert>505</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzhöhe" Name="Sitzhöhe">
+        <Wert>475</Wert>
+      </Merkmal>
+      <Merkmal key="Sitztiefe" Name="Sitztiefe">
+        <Wert>520</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>995</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl KELLY</Wert_xx>
+        <Wert_nl>stoel KELLY</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ergonomie" Name="Ergonomie">
+        <Wert_xx>PLUS</Wert_xx>
+        <Wert_nl>PLUS</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Feuersicherung" Name="Feuersicherung">
+        <Wert_xx>EN 1021-1 Zigarettenglut, EN 1021-2 Streichholz</Wert_xx>
+        <Wert_nl>EN 1021-1 sigarettengloed, EN 1021-2 lucifers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>Schwinger</Wert_xx>
+        <Wert_nl>sledeonderstel</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Stoff SHOP1</Wert_xx>
+        <Wert_nl>stof SHOP1</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialeigenschaft" Name="Materialeigenschaft">
+        <Wert_xx>hochbelastbarer, flammhemmender Bezugsstoff</Wert_xx>
+        <Wert_nl>hoogbelastbare brandvertragende bekledingsstof</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialzusammensetzung" Name="Materialzusammensetzung">
+        <Wert_xx>100% Polyester</Wert_xx>
+        <Wert_nl>100% polyester</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99208547" Name="99208547" Variantenmerkmale="Farbe">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>2400</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>740</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>2000</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Winkelkombination Lolo</Wert_xx>
+        <Wert_nl>aanbieding 2 - Hoekcombinatie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Holz</Wert_xx>
+        <Wert_nl>hout</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99768503" Name="99768503" Variantenmerkmale="Farbe">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>2400</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>109</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>740</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>1600</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Winkelkombination LOLO-X</Wert_xx>
+        <Wert_nl>aanbieding 1 - Hoekcombinatie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Holz</Wert_xx>
+        <Wert_nl>hout</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99768209" Name="99768209" Variantenmerkmale="Farbe, Gestellfarbe">
+    <Merkmale>
+      <Merkmal key="Beständigkeit_in_Scheuertouren" Name="Beständigkeit in Scheuertouren">
+        <Wert>100000</Wert>
+      </Merkmal>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>530</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>9</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>835</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>2,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>2,00</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzbreite" Name="Sitzbreite">
+        <Wert>450</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzhöhe" Name="Sitzhöhe">
+        <Wert>470</Wert>
+      </Merkmal>
+      <Merkmal key="Sitztiefe" Name="Sitztiefe">
+        <Wert>450</Wert>
+      </Merkmal>
+      <Merkmal key="Stapelbar_bis" Name="Stapelbar bis">
+        <Wert>4</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>490</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl MEWA - langlebig mit Soft-Kunstlederbezug</Wert_xx>
+        <Wert_nl>stoel MEWA</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ergonomie" Name="Ergonomie">
+        <Wert_xx>PLUS</Wert_xx>
+        <Wert_nl>PLUS</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Soft-Kunstleder</Wert_xx>
+        <Wert_nl>soft-kunstleder</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialeigenschaft" Name="Materialeigenschaft">
+        <Wert_xx>strapazierf&amp;auml;higer Bezugsstoff, abwaschbar</Wert_xx>
+        <Wert_nl>duurzame bekledingsstof, afwasbaar</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialzusammensetzung" Name="Materialzusammensetzung">
+        <Wert_xx>70% Poylester, 30% Baumwolle</Wert_xx>
+        <Wert_nl>70% polyester, 30% katoen</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99207354" Name="99207354" Variantenmerkmale="Farbe">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1600</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>69</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>740</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Schreibtisch Dragon</Wert_xx>
+        <Wert_nl>Bureau-3</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Holz</Wert_xx>
+        <Wert_nl>hout</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99426370" Name="99426370" Variantenmerkmale="Farbe, Material">
+    <Merkmale>
+      <Merkmal key="Beständigkeit_in_Scheuertouren" Name="Beständigkeit in Scheuertouren">
+        <Wert>50000</Wert>
+      </Merkmal>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>545</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>6,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>760</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>3,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>3,00</Wert>
+      </Merkmal>
+      <Merkmal key="Rückenlehnenhöhe" Name="Rückenlehnenhöhe">
+        <Wert>925</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzbreite" Name="Sitzbreite">
+        <Wert>450</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzhöhe" Name="Sitzhöhe">
+        <Wert>445</Wert>
+      </Merkmal>
+      <Merkmal key="Sitztiefe" Name="Sitztiefe">
+        <Wert>475</Wert>
+      </Merkmal>
+      <Merkmal key="Stapelbar_bis" Name="Stapelbar bis">
+        <Wert>4</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>990</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stapel-Holzstuhl ADAM </Wert_xx>
+        <Wert_nl>toel ADAM met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ergonomie" Name="Ergonomie">
+        <Wert_xx>PLUS</Wert_xx>
+        <Wert_nl>PLUS</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Feuersicherung" Name="Feuersicherung">
+        <Wert_xx>EN 1021-1 Zigarettenglut, EN 1021-2 Streichholz</Wert_xx>
+        <Wert_nl>EN 1021-1 sigarettengloed, EN 1021-2 lucifers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Buchedekor</Wert_xx>
+        <Wert_nl>beukdecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99377468" Name="99377468" Variantenmerkmale="Farbe, Ausführung">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>324</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>16,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>1900</Wert>
+      </Merkmal>
+      <Merkmal key="Länge" Name="Länge">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>575</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte EVA - optional dimmbar</Wert_xx>
+        <Wert_nl>Stalamp EVA, optioneel dimbaar</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>aluminium</Wert_xx>
+        <Wert_nl>aluminium</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>2 Jahre Garantie</Wert_xx>
+        <Wert_nl>2 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Fuß" Name="Fuß">
+        <Wert_xx>Standfu&amp;szlig;</Wert_xx>
+        <Wert_nl>steunpoot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99208445" Name="99208445" Variantenmerkmale="Farbe, Variante">
+    <Merkmale>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Kettenst&amp;auml;nder-Set</Wert_xx>
+        <Wert_nl>Kettenst&amp;auml;nder-Set</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99367633" Name="99367633" Variantenmerkmale="Variante">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>300</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>1900</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>600</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A</Wert>
+      </Merkmal>
+      <Merkmal key="Exklusiv_bei_SHOP-X" Name="Exklusiv bei SHOP-X">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte - optional dimmbar</Wert_xx>
+        <Wert_nl>stalamp</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>aluminium</Wert_xx>
+        <Wert_nl>aluminium</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>2 Jahre Garantie</Wert_xx>
+        <Wert_nl>2 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Fuß" Name="Fuß">
+        <Wert_xx>Standfu&amp;szlig;</Wert_xx>
+        <Wert_nl>steunpoot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Produkt key="99767882" Name="99767882" Variantenmerkmale="Ausführung">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>61,5</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert></Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>1900</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>620</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Energiespar-Stehleuchten BOBO - energieeffizient</Wert_xx>
+        <Wert_nl>Energiebesparende lampen Novato</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausstattung" Name="Ausstattung">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>rau</Wert_xx>
+        <Wert_nl>aluminiumgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>aluminium</Wert_xx>
+        <Wert_nl>aluminium</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>2 Jahre Garantie</Wert_xx>
+        <Wert_nl>2 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Fuß" Name="Fuß">
+        <Wert_xx>Standfu&amp;szlig;</Wert_xx>
+        <Wert_nl>steunpoot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Produkt>
+  <Artikel key="385570" Name="385570" Produkt="99385565">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>75,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>720</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot</Wert_xx>
+        <Wert_nl>Angebot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>Rechteck</Wert_xx>
+        <Wert_nl>rechthoek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="920582" Name="920582" Produkt="99920582">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>15</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>1960</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Standleuchte  Konstantlichtregelung</Wert_xx>
+        <Wert_nl>Standleuchte  Konstantlichtregelung</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Silber</Wert_xx>
+        <Wert_nl>zilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>mit Standfu&amp;szlig;</Wert_xx>
+        <Wert_nl>mit Standfu&amp;szlig;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="768504" Name="768504" Produkt="99768503">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Winkelarbeitsplatz</Wert_xx>
+        <Wert_nl>hoekwerkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Ahorndekor</Wert_xx>
+        <Wert_nl>esdoorndecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="208482" Name="208482" Produkt="99208547">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>2400</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>109,5</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Winkelarbeitsplatz</Wert_xx>
+        <Wert_nl>hoekwerkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="385568" Name="385568" Produkt="99385565">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>75,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>720</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot</Wert_xx>
+        <Wert_nl>Angebot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Anthrazit</Wert_xx>
+        <Wert_nl>antraciet</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>Rechteck</Wert_xx>
+        <Wert_nl>rechthoek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="426368" Name="426368" Produkt="99426370">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl ADAM </Wert_xx>
+        <Wert_nl>stoel ADAM met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Kunstleder</Wert_xx>
+        <Wert_nl>imitatieleder</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>Bezug Kunstleder</Wert_xx>
+        <Wert_nl>Bezug Kunstleder</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="374695" Name="374695" Produkt="99374694">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger TopGun </Wert_xx>
+        <Wert_nl>sledestoel TopGun met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Anthrazit</Wert_xx>
+        <Wert_nl>antraciet</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="385566" Name="385566" Produkt="99385565">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>75,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>720</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot</Wert_xx>
+        <Wert_nl>Angebot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Buchedekor</Wert_xx>
+        <Wert_nl>beukdecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>Rechteck</Wert_xx>
+        <Wert_nl>rechthoek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="369758" Name="369758" Produkt="99767882">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>20,5</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A</Wert>
+      </Merkmal>
+      <Merkmal key="Beleuchtungsstärke" Name="Beleuchtungsstärke">
+        <Wert>830</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Energiespar-Stehleuchte Novato 100</Wert_xx>
+        <Wert_nl>Energiezuinige staande lamp Novato 100</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>Abstrahlung 100% nach unten</Wert_xx>
+        <Wert_nl>Abstrahlung 100% nach unten</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="385562" Name="385562" Produkt="99385561">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>49,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>720</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot</Wert_xx>
+        <Wert_nl>Angebot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Buchedekor</Wert_xx>
+        <Wert_nl>beukdecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>Rechteck</Wert_xx>
+        <Wert_nl>rechthoek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="426364" Name="426364" Produkt="99220768">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>480</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>820</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>435</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger KELLY</Wert_xx>
+        <Wert_nl>sledestoel KELLY</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Feuersicherung" Name="Feuersicherung">
+        <Wert_xx>EN 1021-1 Zigarettenglut, EN 1021-2 Streichholz</Wert_xx>
+        <Wert_nl>EN 1021-1 sigarettengloed, EN 1021-2 lucifers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="385572" Name="385572" Produkt="">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Abh&amp;auml;ngvorrichtung f&amp;uuml;r Deckenh&amp;auml;nger</Wert_xx>
+        <Wert_nl>Abh&amp;auml;ngvorrichtung f&amp;uuml;r Deckenh&amp;auml;nger</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="208568" Name="208568" Produkt="99207354">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Anthrazit</Wert_xx>
+        <Wert_nl>antraciet</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="768981" Name="768981" Produkt="99768209">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl MEWA</Wert_xx>
+        <Wert_nl>stoel MEWA</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Bordeaux</Wert_xx>
+        <Wert_nl>bordeaux</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="922206" Name="922206" Produkt="">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>995</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>820</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>2,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>2,00</Wert>
+      </Merkmal>
+      <Merkmal key="Rückenlehnenhöhe" Name="Rückenlehnenhöhe">
+        <Wert>375</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzbreite" Name="Sitzbreite">
+        <Wert>440</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzhöhe" Name="Sitzhöhe">
+        <Wert>445</Wert>
+      </Merkmal>
+      <Merkmal key="Sitztiefe" Name="Sitztiefe">
+        <Wert>430</Wert>
+      </Merkmal>
+      <Merkmal key="Stapelbar_bis" Name="Stapelbar bis">
+        <Wert>5</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>585</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl SONIO PRO</Wert_xx>
+        <Wert_nl>Teilnehmerstuhl SONIO PRO</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ergonomie" Name="Ergonomie">
+        <Wert_xx>PLUS</Wert_xx>
+        <Wert_nl>PLUS</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Feuersicherung" Name="Feuersicherung">
+        <Wert_xx>EN 1021-1 Zigarettenglut</Wert_xx>
+        <Wert_nl>EN 1021-1 sigarettengloed</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialeigenschaft" Name="Materialeigenschaft">
+        <Wert_xx>hochbelastbarer Bezugsstoff</Wert_xx>
+        <Wert_nl>hoogbelastbare bekledingsstof</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialzusammensetzung" Name="Materialzusammensetzung">
+        <Wert_xx>100% Polyester</Wert_xx>
+        <Wert_nl>100% polyester</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="385567" Name="385567" Produkt="99385565">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>75,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>720</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot</Wert_xx>
+        <Wert_nl>Angebot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Ahorndekor</Wert_xx>
+        <Wert_nl>esdoorndecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>Rechteck</Wert_xx>
+        <Wert_nl>rechthoek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="374698" Name="374698" Produkt="99374694">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger TopGun </Wert_xx>
+        <Wert_nl>sledestoel TopGun met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Anthrazit</Wert_xx>
+        <Wert_nl>antraciet</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="374696" Name="374696" Produkt="99374694">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger TopGun </Wert_xx>
+        <Wert_nl>sledestoel TopGun met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Blau</Wert_xx>
+        <Wert_nl>blauw</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="363653" Name="363653" Produkt="">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>300</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>10</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>1900</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>990</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A</Wert>
+      </Merkmal>
+      <Merkmal key="Beleuchtungsstärke" Name="Beleuchtungsstärke">
+        <Wert>651</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte mit getrennt steuerbar</Wert_xx>
+        <Wert_nl>Staande lamp</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Fuß" Name="Fuß">
+        <Wert_xx>Standfu&amp;szlig;</Wert_xx>
+        <Wert_nl>steunpoot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="492122" Name="492122" Produkt="99204200">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl </Wert_xx>
+        <Wert_nl>stoel </Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>ohne Armlehnen</Wert_xx>
+        <Wert_nl>zonder armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx>Auch mit schwarzem Gestell erh&amp;auml;ltlich</Wert_xx>
+        <Wert_nl>Zijn deze artikelen interessant voor u?</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <UP_Selling>
+      <UP_Seller type="Artikel" key="492201"></UP_Seller>
+    </UP_Selling>
+  </Artikel>
+  <Artikel key="367633" Name="367633" Produkt="99367633">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A</Wert>
+      </Merkmal>
+      <Merkmal key="Lebensdauer_in_h" Name="Lebensdauer in h">
+        <Wert>30000</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte mit aus </Wert_xx>
+        <Wert_nl>Staande lamp</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Variante" Name="Variante">
+        <Wert_xx>nicht dimmbar</Wert_xx>
+        <Wert_nl>niet dimbar</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Lux" Name="Lux ">
+        <Wert_xx>600</Wert_xx>
+        <Wert_nl>600.0</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="367634" Name="367634" Produkt="99367633">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>15</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Lebensdauer_in_h" Name="Lebensdauer in h">
+        <Wert>30000</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte mit aus  dimmbar</Wert_xx>
+        <Wert_nl>Staande lamp, dimbaar</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Variante" Name="Variante">
+        <Wert_xx>dimmbar</Wert_xx>
+        <Wert_nl>dimbar</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Lux" Name="Lux ">
+        <Wert_xx>1200</Wert_xx>
+        <Wert_nl>1200.0</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="767641" Name="767641" Produkt="99208031">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>16</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>platte</Wert_xx>
+        <Wert_nl>blad</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber RAL 9006</Wert_xx>
+        <Wert_nl>aluzilver RAL 9006</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="767788" Name="767788" Produkt="99767788">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl II</Wert_xx>
+        <Wert_nl>stoel II</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>ohne Armlehnen</Wert_xx>
+        <Wert_nl>zonder armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Kunstleder</Wert_xx>
+        <Wert_nl>imitatieleder</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx>Auch in Echtleder</Wert_xx>
+        <Wert_nl>Zijn deze artikelen interessant voor u?</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <UP_Selling>
+      <UP_Seller type="Artikel" key="207048"></UP_Seller>
+    </UP_Selling>
+  </Artikel>
+  <Artikel key="920590" Name="920590" Produkt="">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>15,1</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>1999</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Standleuchte modernste Lichttechnik</Wert_xx>
+        <Wert_nl>Standleuchte modernste Lichttechnik</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Silber</Wert_xx>
+        <Wert_nl>zilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="377379" Name="377379" Produkt="99377468">
+    <Merkmale>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte EVA, Stahl pulverbeschichtet grau</Wert_xx>
+        <Wert_nl>Staande lamp Free</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Silbergrau</Wert_xx>
+        <Wert_nl>zilvergrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>dimmbar</Wert_xx>
+        <Wert_nl>dimmbar</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="377920" Name="377920" Produkt="99377468">
+    <Merkmale>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte EVA Stahl, pulverbeschichtet schwarz</Wert_xx>
+        <Wert_nl>Staande lamp Free</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>dimmbar</Wert_xx>
+        <Wert_nl>dimmbar</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="208532" Name="208532" Produkt="99208547">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>2420</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>109,5</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Winkelarbeitsplatz</Wert_xx>
+        <Wert_nl>hoekwerkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="767880" Name="767880" Produkt="99767880">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>330</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>11</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>620</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte BOBO Energiesparleuchte </Wert_xx>
+        <Wert_nl>Staande werkpleklamp BOBO</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Variante" Name="Variante">
+        <Wert_xx>nicht dimmbar</Wert_xx>
+        <Wert_nl>niet dimbaar</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="377468" Name="377468" Produkt="99377468">
+    <Merkmale>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte EVA, Stahl pulverbeschichtet</Wert_xx>
+        <Wert_nl>Staande lamp Free</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Silbergrau</Wert_xx>
+        <Wert_nl>zilvergrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>nicht dimmbar</Wert_xx>
+        <Wert_nl>nicht dimmbar</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="385564" Name="385564" Produkt="99385561">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>49,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>720</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot</Wert_xx>
+        <Wert_nl>Angebot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Anthrazit</Wert_xx>
+        <Wert_nl>antraciet</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>Rechteck</Wert_xx>
+        <Wert_nl>rechthoek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="385569" Name="385569" Produkt="99385561">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>49,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>720</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot</Wert_xx>
+        <Wert_nl>Angebot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>Rechteck</Wert_xx>
+        <Wert_nl>rechthoek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="492119" Name="492119" Produkt="99204760">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl </Wert_xx>
+        <Wert_nl>stoel met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx>Auch mit schwarzem Gestell erh&amp;auml;ltlich</Wert_xx>
+        <Wert_nl>Zijn deze artikelen interessant voor u?</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <UP_Selling>
+      <UP_Seller type="Artikel" key="492201"></UP_Seller>
+    </UP_Selling>
+  </Artikel>
+  <Artikel key="385565" Name="385565" Produkt="99385565">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>75,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>720</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot</Wert_xx>
+        <Wert_nl>Angebot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Anthrazit</Wert_xx>
+        <Wert_nl>antraciet</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>Rechteck</Wert_xx>
+        <Wert_nl>rechthoek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="207049" Name="207049" Produkt="99767788">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl II </Wert_xx>
+        <Wert_nl>stoel II met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Echtleder</Wert_xx>
+        <Wert_nl>echt leder</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="768501" Name="768501" Produkt="99768503">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Winkelarbeitsplatz</Wert_xx>
+        <Wert_nl>hoekwerkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="468720" Name="468720" Produkt="99468718">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>70</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Ahorndekor</Wert_xx>
+        <Wert_nl>esdoorndecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="385561" Name="385561" Produkt="99385561">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>49,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>720</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot</Wert_xx>
+        <Wert_nl>Angebot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Anthrazit</Wert_xx>
+        <Wert_nl>antraciet</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>Rechteck</Wert_xx>
+        <Wert_nl>rechthoek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="208020" Name="208020" Produkt="99208031">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>16</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>platte</Wert_xx>
+        <Wert_nl>blad</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Ahorndekor</Wert_xx>
+        <Wert_nl>esdoorndecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber RAL 9006</Wert_xx>
+        <Wert_nl>aluzilver RAL 9006</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="385563" Name="385563" Produkt="99385561">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>49,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>720</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert>20</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>800</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot</Wert_xx>
+        <Wert_nl>Angebot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Ahorndekor</Wert_xx>
+        <Wert_nl>esdoorndecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>4-Fu&amp;szlig;</Wert_xx>
+        <Wert_nl>4-poot</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenform" Name="Plattenform">
+        <Wert_xx>Rechteck</Wert_xx>
+        <Wert_nl>rechthoek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Plattenstärke" Name="Plattenstärke">
+        <Wert_xx>20</Wert_xx>
+        <Wert_nl>20</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>5 Jahre Garantie</Wert_xx>
+        <Wert_nl>5 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>SET</Wert_xx>
+        <Wert_nl>set</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="207048" Name="207048" Produkt="99767788">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl II</Wert_xx>
+        <Wert_nl>stoel II</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>ohne Armlehnen</Wert_xx>
+        <Wert_nl>zonder armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Echtleder</Wert_xx>
+        <Wert_nl>echt leder</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx>Auch inkl. Armlehnen erh&amp;auml;ltlich</Wert_xx>
+        <Wert_nl>Zijn deze artikelen interessant voor u?</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <UP_Selling>
+      <UP_Seller type="Artikel" key="207049"></UP_Seller>
+    </UP_Selling>
+  </Artikel>
+  <Artikel key="207356" Name="207356" Produkt="99207354">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Ahorndekor</Wert_xx>
+        <Wert_nl>esdoorndecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="374697" Name="374697" Produkt="99374694">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger TopGun </Wert_xx>
+        <Wert_nl>sledestoel TopGun met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="768208" Name="768208" Produkt="99768209">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl MEWA</Wert_xx>
+        <Wert_nl>stoel MEWA</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="468718" Name="468718" Produkt="99468718">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>70</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="207354" Name="207354" Produkt="99207354">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Anthrazit</Wert_xx>
+        <Wert_nl>antraciet</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="768502" Name="768502" Produkt="99768503">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Winkelarbeitsplatz</Wert_xx>
+        <Wert_nl>hoekwerkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="767638" Name="767638" Produkt="99208031">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>16</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>platte</Wert_xx>
+        <Wert_nl>blad</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber RAL 9006</Wert_xx>
+        <Wert_nl>aluzilver RAL 9006</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="374699" Name="374699" Produkt="99374694">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger TopGun </Wert_xx>
+        <Wert_nl>sledestoel TopGun met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Blau</Wert_xx>
+        <Wert_nl>blauw</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="369183" Name="369183" Produkt="">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>485</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>7</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>815</Wert>
+      </Merkmal>
+      <Merkmal key="Höhenverstellbar_von_bis" Name="Höhenverstellbar von bis">
+        <Wert>815-1020</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>2,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>2,00</Wert>
+      </Merkmal>
+      <Merkmal key="Sitzhöhe" Name="Sitzhöhe">
+        <Wert>605-815</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>485</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Barhocker LIDO</Wert_xx>
+        <Wert_nl>Barkruk LIDO</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellform" Name="Gestellform">
+        <Wert_xx>Trompetenfu&amp;szlig;</Wert_xx>
+        <Wert_nl>Trompetenfu&amp;szlig;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Kunstleder</Wert_xx>
+        <Wert_nl>imitatieleder</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialeigenschaft" Name="Materialeigenschaft">
+        <Wert_xx>hochbelastbarer Bezugsstoff</Wert_xx>
+        <Wert_nl>hoogbelastbare bekledingsstof</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Materialzusammensetzung" Name="Materialzusammensetzung">
+        <Wert_xx>Kunstleder</Wert_xx>
+        <Wert_nl>imitatieleder</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Top-Qualität" Name="Top-Qualität">
+        <Wert_xx>3 Jahre Garantie</Wert_xx>
+        <Wert_nl>3 jaar garantie</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="209620" Name="209620" Produkt="99209624">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Buchedekor</Wert_xx>
+        <Wert_nl>beukdecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="920583" Name="920583" Produkt="99920582">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>9</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Tischkleuchte  Konstantlicht</Wert_xx>
+        <Wert_nl>Tischkleuchte  Konstantlicht</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Silber</Wert_xx>
+        <Wert_nl>zilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>mit Tischklemme</Wert_xx>
+        <Wert_nl>mit Tischklemme</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="492116" Name="492116" Produkt="99204200">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl </Wert_xx>
+        <Wert_nl>stoel </Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>ohne Armlehnen</Wert_xx>
+        <Wert_nl>zonder armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx>Auch inkl. Armlehnen erh&amp;auml;ltlich</Wert_xx>
+        <Wert_nl>Zijn deze artikelen interessant voor u?</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <UP_Selling>
+      <UP_Seller type="Artikel" key="492122"></UP_Seller>
+    </UP_Selling>
+  </Artikel>
+  <Artikel key="426362" Name="426362" Produkt="99220768">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>480</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>820</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>435</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger KELLY</Wert_xx>
+        <Wert_nl>sledestoel KELLY</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Dunkelblau</Wert_xx>
+        <Wert_nl>donkerblauw</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Feuersicherung" Name="Feuersicherung">
+        <Wert_xx>EN 1021-1 Zigarettenglut, EN 1021-2 Streichholz</Wert_xx>
+        <Wert_nl>EN 1021-1 sigarettengloed, EN 1021-2 lucifers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="920591" Name="920591" Produkt="">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>10,5</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>1200</Wert>
+      </Merkmal>
+      <Merkmal key="Mengeneinheit" Name="Mengeneinheit">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Mindestbestellmenge" Name="Mindestbestellmenge">
+        <Wert>1,00</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Tischleuchte  moderne Lichttechnik</Wert_xx>
+        <Wert_nl>Tischleuchte  moderne Lichttechnik</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Silber</Wert_xx>
+        <Wert_nl>zilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>Hey guys, you gotta get back in there and finish the dance. Hey, Doc, we better back up, we don't have enough roads to get up to 88. Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around. But, what are you blind McFly, it's there. How else do you explain that wreck out there? Ah, where're my pants?</Wert_xx>
+        <Wert_nl>Uh listen, do you know where Riverside Drive is? And he could sleep in my room. Perfect, just perfect. Alright, I'm ready. Oh, oh a rematch, why, were you cheating?</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Verkaufseinheit" Name="Verkaufseinheit">
+        <Wert_xx>St&amp;uuml;ck</Wert_xx>
+        <Wert_nl>stuk</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="208024" Name="208024" Produkt="99208031">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>16</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>platte</Wert_xx>
+        <Wert_nl>blad</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Buchedekor</Wert_xx>
+        <Wert_nl>beukdecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber RAL 9006</Wert_xx>
+        <Wert_nl>aluzilver RAL 9006</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="220360" Name="220360" Produkt="99220768">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>995</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>830</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>995</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger KELLY</Wert_xx>
+        <Wert_nl>sledestoel KELLY</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Feuersicherung" Name="Feuersicherung">
+        <Wert_xx>EN 1021-1 Zigarettenglut, EN 1021-2 Streichholz</Wert_xx>
+        <Wert_nl>EN 1021-1 sigarettengloed, EN 1021-2 lucifers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="208999" Name="208999" Produkt="99208547">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>2400</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>109,5</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Winkelarbeitsplatz</Wert_xx>
+        <Wert_nl>hoekwerkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Ahorndekor</Wert_xx>
+        <Wert_nl>esdoorndecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="767789" Name="767789" Produkt="99767788">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl </Wert_xx>
+        <Wert_nl>stoel met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Material" Name="Material">
+        <Wert_xx>Kunstleder</Wert_xx>
+        <Wert_nl>imitatieleder</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx>Auch in Echtleder</Wert_xx>
+        <Wert_nl>Zijn deze artikelen interessant voor u?</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <UP_Selling>
+      <UP_Seller type="Artikel" key="207049"></UP_Seller>
+    </UP_Selling>
+  </Artikel>
+  <Artikel key="767881" Name="767881" Produkt="99767880">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>330</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>12</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>620</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleucht BOBO, Energiesparleuchte </Wert_xx>
+        <Wert_nl>Staande werkpleklamp BOBO, dimbaar</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Variante" Name="Variante">
+        <Wert_xx>dimmbar</Wert_xx>
+        <Wert_nl>dimbaar</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="208547" Name="208547" Produkt="99208547">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>2400</Wert>
+      </Merkmal>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>109,5</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Winkelarbeitsplatz</Wert_xx>
+        <Wert_nl>hoekwerkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Buchedekor</Wert_xx>
+        <Wert_nl>beukdecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="208031" Name="208031" Produkt="99208031">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>16</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>platte</Wert_xx>
+        <Wert_nl>blad</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Anthrazit RAL 7016</Wert_xx>
+        <Wert_nl>Antraciet RAL 7016</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="377921" Name="377921" Produkt="99377468">
+    <Merkmale>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte EVA Stahl pulverbeschichtet, weiss</Wert_xx>
+        <Wert_nl>Staande lamp Free</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>dimmbar</Wert_xx>
+        <Wert_nl>dimmbar</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="468721" Name="468721" Produkt="99468718">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>70</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="468719" Name="468719" Produkt="99468718">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>70</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Buchedekor</Wert_xx>
+        <Wert_nl>beukdecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="209676" Name="209676" Produkt="99209624">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Ahorndekor</Wert_xx>
+        <Wert_nl>esdoorndecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="220768" Name="220768" Produkt="99220768">
+    <Merkmale>
+      <Merkmal key="Breite" Name="Breite">
+        <Wert>995</Wert>
+      </Merkmal>
+      <Merkmal key="Höhe" Name="Höhe">
+        <Wert>830</Wert>
+      </Merkmal>
+      <Merkmal key="Tiefe" Name="Tiefe">
+        <Wert>995</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger KELLY</Wert_xx>
+        <Wert_nl>sledestoel KELLY</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Dunkelblau</Wert_xx>
+        <Wert_nl>donkerblauw</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Feuersicherung" Name="Feuersicherung">
+        <Wert_xx>EN 1021-1 Zigarettenglut, EN 1021-2 Streichholz</Wert_xx>
+        <Wert_nl>EN 1021-1 sigarettengloed, EN 1021-2 lucifers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="768503" Name="768503" Produkt="99768503">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Winkelarbeitsplatz</Wert_xx>
+        <Wert_nl>hoekwerkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Buchedekor</Wert_xx>
+        <Wert_nl>beukdecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="374694" Name="374694" Produkt="99374694">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerschwinger TopGun </Wert_xx>
+        <Wert_nl>sledestoel TopGun met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="768211" Name="768211" Produkt="99768209">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl MEWA</Wert_xx>
+        <Wert_nl>stoel MEWA</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="492202" Name="492202" Produkt="99204200">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl </Wert_xx>
+        <Wert_nl>stoel </Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>ohne Armlehnen</Wert_xx>
+        <Wert_nl>zonder armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Dunkelgrau</Wert_xx>
+        <Wert_nl>donkergrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx>Auch mit schwarzem Gestell erh&amp;auml;ltlich</Wert_xx>
+        <Wert_nl>Zijn deze artikelen interessant voor u?</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <UP_Selling>
+      <UP_Seller type="Artikel" key="492202"></UP_Seller>
+    </UP_Selling>
+  </Artikel>
+  <Artikel key="768212" Name="768212" Produkt="99768209">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl MEWA</Wert_xx>
+        <Wert_nl>stoel MEWA</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Dunkelblau</Wert_xx>
+        <Wert_nl>donkerblauw</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="768209" Name="768209" Produkt="99768209">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl MEWA</Wert_xx>
+        <Wert_nl>stoel MEWA</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="492117" Name="492117" Produkt="99204200">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl </Wert_xx>
+        <Wert_nl>stoel </Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>ohne Armlehnen</Wert_xx>
+        <Wert_nl>zonder armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Dunkelgrau</Wert_xx>
+        <Wert_nl>donkergrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Verchromt</Wert_xx>
+        <Wert_nl>verchroomd</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx>Auch inkl. Armlehnen erh&amp;auml;ltlich</Wert_xx>
+        <Wert_nl>Zijn deze artikelen interessant voor u?</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <UP_Selling>
+      <UP_Seller type="Artikel" key="492202"></UP_Seller>
+    </UP_Selling>
+  </Artikel>
+  <Artikel key="377378" Name="377378" Produkt="99377468">
+    <Merkmale>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte EVA, Stahl pulverbeschichtet, weiss</Wert_xx>
+        <Wert_nl>Staande lamp Free</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>nicht dimmbar</Wert_xx>
+        <Wert_nl>nicht dimmbar</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Fuß" Name="Fuß">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="208540" Name="208540" Produkt="99208031">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>16</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>platte</Wert_xx>
+        <Wert_nl>blad</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Anthrazit RAL 7016</Wert_xx>
+        <Wert_nl>Antraciet RAL 7016</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="377377" Name="377377" Produkt="99377468">
+    <Merkmale>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A+</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte EVA, Stahl pulverbeschichtet schwarz</Wert_xx>
+        <Wert_nl>Staande lamp Free</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>nicht dimmbar</Wert_xx>
+        <Wert_nl>nicht dimmbar</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="492201" Name="492201" Produkt="99204760">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl </Wert_xx>
+        <Wert_nl>stoel met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="207399" Name="207399" Produkt="99207354">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Buchedekor</Wert_xx>
+        <Wert_nl>beukdecor</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Alusilber</Wert_xx>
+        <Wert_nl>aluzilver</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="492202" Name="492202" Produkt="99204760">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MK</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Teilnehmerstuhl </Wert_xx>
+        <Wert_nl>stoel met armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Armlehnen" Name="Armlehnen">
+        <Wert_xx>inklusive Armlehnen</Wert_xx>
+        <Wert_nl>inclusief armleggers</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Dunkelgrau</Wert_xx>
+        <Wert_nl>donkergrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Schwarz</Wert_xx>
+        <Wert_nl>zwart</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="208571" Name="208571" Produkt="99209624">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Wei&amp;szlig;</Wert_xx>
+        <Wert_nl>wit</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Anthrazit</Wert_xx>
+        <Wert_nl>antraciet</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="767882" Name="767882" Produkt="99767882">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>20,9</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A</Wert>
+      </Merkmal>
+      <Merkmal key="Beleuchtungsstärke" Name="Beleuchtungsstärke">
+        <Wert>1670</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Stehleuchte BOBO Energiesparleuchte </Wert_xx>
+        <Wert_nl>Energiezuinige staande lamp Novato 85/15</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>Abstrahlung 85% nach oben, 15% nacht unten</Wert_xx>
+        <Wert_nl>Abstrahlung 85% nach oben, 15% nacht unten</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="209624" Name="209624" Produkt="99209624">
+    <Merkmale>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>MO</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Angebot Einzelarbeitsplatz</Wert_xx>
+        <Wert_nl>individuele werkplek</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Farbe" Name="Farbe">
+        <Wert_xx>Lichtgrau</Wert_xx>
+        <Wert_nl>lichtgrijs</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Gestellfarbe" Name="Gestellfarbe">
+        <Wert_xx>Anthrazit</Wert_xx>
+        <Wert_nl>antraciet</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+  <Artikel key="369757" Name="369757" Produkt="99767882">
+    <Merkmale>
+      <Merkmal key="Gewicht" Name="Gewicht">
+        <Wert>20,5</Wert>
+      </Merkmal>
+      <Merkmal key="Energie-Label-Wert" Name="Energie-Label-Wert">
+        <Wert>A</Wert>
+      </Merkmal>
+      <Merkmal key="Beleuchtungsstärke" Name="Beleuchtungsstärke">
+        <Wert>500</Wert>
+      </Merkmal>
+      <Merkmal key="Stückzahl" Name="Stückzahl">
+        <Wert>1</Wert>
+      </Merkmal>
+      <Merkmal key="Montageoption" Name="Montageoption">
+        <Wert>NM</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>Energiespar-Stehleuchte Novato 40/60</Wert_xx>
+        <Wert_nl>Energiezuinige staande lamp Novato 40/60</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx>&lt;P&gt;Right. You too. What about George? Yeah. Yoo.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Really. What? I'll get it back to you, alright?&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Ausführung" Name="Ausführung">
+        <Wert_xx>Abstrahlung 40% nach oben, 60% nach unten</Wert_xx>
+        <Wert_nl>Abstrahlung 40% nach oben, 60% nach unten</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+  </Artikel>
+</Root>
