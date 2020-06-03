@@ -3,14 +3,24 @@
 {% block title %}Start{% endblock %}
 
 {% block body %}
+    <section class="about-section text-center" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-white mb-4">Übersicht: Produkte</h2>
+                    <p class="text-white-50"> Hier finden sie alle verfügbaren Produkte. </p>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="projects-section bg-light" id="projects">
         <div class="container">
             {% set i = 1 %}
             {% for article in articles %}
-
+                {% set articletitle = article.title |split(' ') %}
                 {% if i is divisible by(2)%}
                     <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
-                        <div class="col-lg-6"><img class="img-fluid" src="{{ asset('/assets/img/default.jpg') }}"
+                        <div class="col-lg-6"><img class="img-fluid" src="https://source.unsplash.com/700x500/?chair-business,work,{{articletitle[0]}}}"
                                                    alt=""/></div>
                         <div class="col-lg-6">
                             <div class="bg-black text-center h-100 project">
@@ -29,7 +39,7 @@
                     <div class="row justify-content-center no-gutters">
                         <div class="col-lg-6">
                             <a href="{{ path('article', {'id': article.id}) }}">
-                            <img class="img-fluid" src="{{ asset('/assets/img/default.jpg') }}"alt=""/>
+                            <img class="img-fluid" src="https://source.unsplash.com/700x500/?chair,desk,work,{{articletitle[0]}}}"alt=""/>
                             </a> </div>
                         <div class="col-lg-6 order-lg-first">
                             <div class="bg-black text-center h-100 project">
