@@ -3,70 +3,65 @@
 {% block title %}Article{% endblock %}
 
 {% block body %}
-    <h1>Article</h1>
+    <section class="about-section text-center" id="about">
+        <div class="container">
+            <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+                <div class="col-xl-8 col-lg-7">
+                    {% set articletitle = article.title |split(' ') %}
+                    <img class="img-fluid mb-3 mb-lg-0"
+                         src="https://source.unsplash.com/700x500/?chair-business,{{ articletitle[0] }}"
+                         alt=""/>
+                </div>
+                <div class="col-xl-4 col-lg-5">
+                    <div class="featured-text text-center text-lg-left text-white-5">
+                        <div style="margin: 35px">
+                            <h3>
+                                <h2 class="text-white mb-4"> {{ article.title }}</h2>
+                            </h3>
+                            <p  class="text-white mb-4" > {{ article.shortdesc }}</p>
+                        </div>
+                    </div>
+                </div>
+                            <table class="table text-white-50">
+                                <tbody>
+                                <tr>
+                                    <th>Artnum</th>
+                                    <td>{{ article.artnum }}</td>
+                                </tr>
+                                <tr>
+                                    <th>Longdesc</th>
+                                    <td>{{ article.longdesc|raw }}</td>
+                                </tr>
+                                <tr>
+                                    <th>Unitname</th>
+                                    <td>{{ article.unitname }}</td>
+                                </tr>
+                                <tr>
+                                    <th>Alphabytes_variantenmerkmale</th>
+                                    <td>{{ article.alphabytesVariantenmerkmale }}</td>
+                                </tr>
+                                <tr>
+                                    <th>Varname</th>
+                                    <td>{{ article.varname }}</td>
+                                </tr>
+                                <tr>
+                                    <th>Varselect</th>
+                                    <td>{{ article.varselect }}</td>
+                                </tr>
 
-    <table class="table">
-        <tbody>
-            <tr>
-                <th>Id</th>
-                <td>{{ article.id }}</td>
-            </tr>
-            <tr>
-                <th>Artnum</th>
-                <td>{{ article.artnum }}</td>
-            </tr>
-            <tr>
-                <th>Parentid</th>
-                <td>{{ article.parentid }}</td>
-            </tr>
-            <tr>
-                <th>Asy_packaging</th>
-                <td>{{ article.asyPackaging }}</td>
-            </tr>
-            <tr>
-                <th>Asy_min_order</th>
-                <td>{{ article.asyMinOrder }}</td>
-            </tr>
-            <tr>
-                <th>Asy_installation</th>
-                <td>{{ article.asyInstallation }}</td>
-            </tr>
-            <tr>
-                <th>Title</th>
-                <td>{{ article.title }}</td>
-            </tr>
-            <tr>
-                <th>Shortdesc</th>
-                <td>{{ article.shortdesc|raw }}</td>
-            </tr>
-            <tr>
-                <th>Longdesc</th>
-                <td>{{ article.longdesc|raw }}</td>
-            </tr>
-            <tr>
-                <th>Unitname</th>
-                <td>{{ article.unitname }}</td>
-            </tr>
-            <tr>
-                <th>Asy_deltext_standard_1</th>
-                <td>{{ article.asyDeltextStandard1|raw }}</td>
-            </tr>
-            <tr>
-                <th>Alphabytes_variantenmerkmale</th>
-                <td>{{ article.alphabytesVariantenmerkmale }}</td>
-            </tr>
-            <tr>
-                <th>Asy_deltext_standard</th>
-                <td>{{ article.asyDeltextStandard|raw }}</td>
-            </tr>
-            <tr>
-                <th>Varname</th>
-                <td>{{ article.varname }}</td>
-            </tr>
-            <tr>
-                <th>Varselect</th>
-                <td>{{ article.varselect }}</td>
-            </tr>
-        </tbody>
-    </table>
+                                </tbody>
+
+                            </table>
+
+            </div>
+            </br>
+            <div class="row justify-content-center no-gutters">
+                <a class="btn btn-primary js-scroll-trigger" href="http://127.0.0.1:8000/#projects">Zurück zur
+                    Kategorienübersicht</a>
+
+            </div>
+            </br>
+            </br>
+        </div>
+    </section>
 {% endblock %}
