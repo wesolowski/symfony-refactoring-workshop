@@ -1,0 +1,57 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Start{% endblock %}
+
+{% block body %}
+    <section class="projects-section bg-light" id="projects">
+        <div class="container">
+            {% set i = 1 %}
+            {% for article in articles %}
+
+                {% if i is divisible by(2)%}
+                    <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+                        <div class="col-lg-6"><img class="img-fluid" src="{{ asset('/assets/img/default.jpg') }}"
+                                                   alt=""/></div>
+                        <div class="col-lg-6">
+                            <div class="bg-black text-center h-100 project">
+                                <div class="d-flex h-100">
+                                    <div class="project-text w-100 my-auto text-center text-lg-left">
+                                        <h4 class="text-white"><a href="{{ path('article', {'id': article.id}) }}">{{ article.title }}</a></h4>
+                                        <p class="mb-0 text-white-50">{{ article.shortdesc }}</p>
+                                        <hr class="d-none d-lg-block mb-0 ml-0"/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% else %}
+                    <!-- Project Two Row-->
+                    <div class="row justify-content-center no-gutters">
+                        <div class="col-lg-6">
+                            <a href="{{ path('article', {'id': article.id}) }}">
+                            <img class="img-fluid" src="{{ asset('/assets/img/default.jpg') }}"alt=""/>
+                            </a> </div>
+                        <div class="col-lg-6 order-lg-first">
+                            <div class="bg-black text-center h-100 project">
+                                <div class="d-flex h-100">
+                                    <div class="project-text w-100 my-auto text-center text-lg-right">
+                                        <h4 class="text-white"><a href="{{ path('article', {'id': article.id}) }}">{{ article.title }}</a></h4>
+                                        <p class="mb-0 text-white-50">{{ article.shortdesc }}</p>
+                                        <hr class="d-none d-lg-block mb-0 mr-0"/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+                {% set i=i+1 %}
+            {% endfor %}
+
+        </br>
+            <div class="row justify-content-center no-gutters">
+                    <a class="btn btn-primary js-scroll-trigger" href="http://127.0.0.1:8000/#projects">Zurück zur Kategorienübersicht</a>
+
+            </div>
+        </div>
+    </section>
+{% endblock %}

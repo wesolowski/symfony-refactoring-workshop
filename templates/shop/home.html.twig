@@ -1,0 +1,40 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Start{% endblock %}
+
+{% block body %}
+    <section class="about-section text-center" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-white mb-4">Übersicht: Produktkategorien</h2>
+                    <p class="text-white-50"> Hier finden sie alle verfügbaren Produkte gelistet in Kategorien. </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="projects-section bg-light" id="projects">
+        <div class="container">
+            {% for category in categories %}
+
+                <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+                    <div class="col-xl-8 col-lg-7">
+                        <a href="{{ path('category', {'id': category.id}) }}"> <img class="img-fluid mb-3 mb-lg-0"
+                                                                                    src="{{ asset('/assets/img/default.jpg') }}"
+                                                                                    alt=""/></a>
+                    </div>
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="featured-text text-center text-lg-left">
+                            <div style="margin: 35px">
+                                <h3>
+                                    <a href="{{ path('category', {'id': category.id}) }}">{{ category.title }}</a>
+                                </h3>
+                                <p>{{ category.shortdesc }}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </section>
+{% endblock %}

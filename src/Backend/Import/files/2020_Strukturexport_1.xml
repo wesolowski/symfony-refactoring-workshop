@@ -1,0 +1,1954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+<Merkmalsdefinitionen>
+    <Merkmalsdefinition key="Abteilbreite" Name="Abteilbreite" Name_nl="afdelingsbreedte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Abteilbreite~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>afdelingsbreedte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen>nein</OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10013</OXID-Merkmalssortierung>
+      <Variantenmerkmal>15</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Farbe" Name="Farbe" Name_nl="kleur">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10003</OXID-Merkmalssortierung>
+      <Variantenmerkmal>1</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Energie-Label-Wert" Name="Energie-Label-Wert" Name_nl="energie-ladel waarde">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Bestseller" Name="Bestseller" Name_nl="Bestseller">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Lieferung-48-Stunden" Name="Lieferung-48-Stunden" Name_nl="48 uren levering">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Made_in_Germany" Name="Made in Germany" Name_nl="Made in Germany">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Montageoption" Name="Montageoption" Name_nl="montageoptie">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Verkaufseinheit" Name="Verkaufseinheit" Name_nl="verkoopeenheid">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal>27</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Warengruppentyp" Name="Warengruppentyp" Name_nl="warengroeptype">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel" Name_nl="warengroeptype SET-artikelen">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Ergonomie" Name="Ergonomie" Name_nl="ergonomie">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10001</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Icons" Name="Icons" Name_nl="icons">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Top-Qualität" Name="Top-Qualität" Name_nl="Top kwaliteit">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="360_Grad_Ansicht" Name="360-Grad-Ansicht" Name_nl="360-graden aanzicht">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anzahl_Abteile" Name="Anzahl Abteile" Name_nl="aantal afdelingen">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10014</OXID-Merkmalssortierung>
+      <Variantenmerkmal>16</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anzahl_Fachböden" Name="Anzahl Fachböden" Name_nl="aantal vakken/legborden">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10041</OXID-Merkmalssortierung>
+      <Variantenmerkmal>19</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Armlehnen" Name="Armlehnen" Name_nl="armleggers">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10030</OXID-Merkmalssortierung>
+      <Variantenmerkmal>22</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Beständigkeit_in_Scheuertouren" Name="Beständigkeit in Scheuertouren" Name_nl="scheurvastheid">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Beständigkeit in~~Scheuertouren</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>scheurvastheid</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10022</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Breite" Name="Breite" Name_nl="breedte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Breite~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>breedte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10005</OXID-Merkmalssortierung>
+      <Variantenmerkmal>3</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Durchmesser" Name="Durchmesser" Name_nl="diameter">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Durchmesser~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>diameter~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10048</OXID-Merkmalssortierung>
+      <Variantenmerkmal>29</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="EAN" Name="EAN" Name_nl="EAN">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Fach-_Bodenlast_max_" Name="Fach-/Bodenlast max." Name_nl="draagkracht per legbord max.">
+      <Einheit>kg</Einheit>
+      <Einheit>kg</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Fach-/Bodenlast max.~~kg</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>draagkracht per legbord max.~~kg</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10040</OXID-Merkmalssortierung>
+      <Variantenmerkmal>17</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Fachbodentiefe" Name="Fachbodentiefe" Name_nl="legborddiepte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Fachbodentiefe~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>legborddiepte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10017</OXID-Merkmalssortierung>
+      <Variantenmerkmal>25</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Fachbodenbreite" Name="Fachbodenbreite" Name_nl="vakbreedte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Fachbodenbreite~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>vakbreedte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10016</OXID-Merkmalssortierung>
+      <Variantenmerkmal>18</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Feldlast_max_" Name="Feldlast max." Name_nl="rekdraagvermogen max.">
+      <Einheit>kg</Einheit>
+      <Einheit>kg</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Feldlast max.~~kg</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>rekdraagvermogen max.~~kg</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10039</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Gewicht" Name="Gewicht" Name_nl="gewicht">
+      <Einheit>kg</Einheit>
+      <Einheit>kg</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Gewicht~~kg</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>gewicht~~kg</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10018</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Hängeregistratur" Name="Hängeregistratur" Name_nl="hangmappenlade">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10055</OXID-Merkmalssortierung>
+      <Variantenmerkmal>20</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Höhe" Name="Höhe" Name_nl="hoogte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Höhe~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>hoogte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10004</OXID-Merkmalssortierung>
+      <Variantenmerkmal>2</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Höhenverstellbar_von_bis" Name="Höhenverstellbar von bis" Name_nl="hoogteinstelbaar van tot">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10047</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Inhalt_Liter_max_" Name="Inhalt Liter max." Name_nl="inhoud liter max.">
+      <Einheit>l</Einheit>
+      <Einheit>l</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10054</OXID-Merkmalssortierung>
+      <Variantenmerkmal>30</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Innenmaße" Name="Innenmaße" Name_nl="binnenmaat">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Kabeldurchlässe" Name="Kabeldurchlässe" Name_nl="kabeldoorvoerdoppen">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10042</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Katalog-Seite-DSB" Name="Katalog-Seite-DSB" Name_nl="catalogus pagina DSB">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Katalog-Seite-DSD" Name="Katalog-Seite-DSD" Name_nl="catalogus pagina DSD">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Katalog-Seite-HKB" Name="Katalog-Seite-HKB" Name_nl="catalogus pagina HKB">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Katalog-Seite-HKD" Name="Katalog-Seite-HKD" Name_nl="catalogus pagina HKD">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Länge" Name="Länge" Name_nl="lengte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Länge~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>lengte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10007</OXID-Merkmalssortierung>
+      <Variantenmerkmal>5</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Mengeneinheit" Name="Mengeneinheit" Name_nl="eenheid">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Mindestbestellmenge" Name="Mindestbestellmenge" Name_nl="min. bestelhoeveelheid">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Ordnerhöhen" Name="Ordnerhöhen" Name_nl="ordnerhoogtes">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10043</OXID-Merkmalssortierung>
+      <Variantenmerkmal>31</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Plattenstärke" Name="Plattenstärke" Name_nl="tafelbladdikte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Plattenstärke~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>tafelbladdikte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10015</OXID-Merkmalssortierung>
+      <Variantenmerkmal>999999</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Rückenlehnenhöhe" Name="Rückenlehnenhöhe" Name_nl="rugleuninghoogte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Rückenlehnenhöhe~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>rugleuninghoogte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10012</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Schübe" Name="Schübe" Name_nl="aantal lades">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10056</OXID-Merkmalssortierung>
+      <Variantenmerkmal>26</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="SEO-URL" Name="SEO-URL" Name_nl="SEO-URL">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Sitzbreite" Name="Sitzbreite" Name_nl="zitbreedte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Sitzbreite~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>zitbreedte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10010</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Sitzhöhe" Name="Sitzhöhe" Name_nl="zithoogte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Sitzhöhe~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>zithoogte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10009</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Sitztiefe" Name="Sitztiefe" Name_nl="zitdiepte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Sitztiefe~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>zitdiepte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10011</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Stapelbar_bis" Name="Stapelbar bis" Name_nl="stapelbaar tot">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10050</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Tiefe" Name="Tiefe" Name_nl="diepte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Tiefe~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>diepte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10006</OXID-Merkmalssortierung>
+      <Variantenmerkmal>4</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Tragkraft_max_" Name="Tragkraft max." Name_nl="draagkracht max.">
+      <Einheit>kg</Einheit>
+      <Einheit>kg</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Tragkraft max.~~kg</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>draagkracht max.~~kg</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10045</OXID-Merkmalssortierung>
+      <Variantenmerkmal>36</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Youtube_Film" Name="Youtube-Film" Name_nl="Youtube-video">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Öffnung_max_" Name="Öffnung max." Name_nl="opening max.">
+      <Einheit>°</Einheit>
+      <Einheit>°</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10014</OXID-Merkmalssortierung>
+      <Variantenmerkmal>28</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Ausstattung" Name="Ausstattung" Name_nl="onderdeel">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10028</OXID-Merkmalssortierung>
+      <Variantenmerkmal>13</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Auszugssperre" Name="Auszugssperre" Name_nl="uittrekbeveiliging">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Feuersicherung" Name="Feuersicherung" Name_nl="brandveiligheid">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10023</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Gestellfarbe" Name="Gestellfarbe" Name_nl="onderstel kleur">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10036</OXID-Merkmalssortierung>
+      <Variantenmerkmal>10</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Gestellform" Name="Gestellform" Name_nl="onderstel">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10034</OXID-Merkmalssortierung>
+      <Variantenmerkmal>9</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Höhenverstellbar" Name="Höhenverstellbar" Name_nl="hoogteinstelbaar">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10046</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Kopfstütze" Name="Kopfstütze" Name_nl="hoofdsteun">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10057</OXID-Merkmalssortierung>
+      <Variantenmerkmal>21</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Korpusfarbe" Name="Korpusfarbe" Name_nl="corpuskleur">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10026</OXID-Merkmalssortierung>
+      <Variantenmerkmal>14</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Kurzbeschreibung" Name="Kurzbeschreibung" Name_nl="korte beschrijving">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Kurzbeschreibung_2_Systemübersicht" Name="Kurzbeschreibung 2 Systemübersicht" Name_nl="korte beschrijving 2 systeemoverzicht">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Langbeschreibung" Name="Langbeschreibung" Name_nl="lange beschrijving">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Material" Name="Material" Name_nl="materiaal">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10019</OXID-Merkmalssortierung>
+      <Variantenmerkmal>8</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Material_Böden" Name="Material Böden" Name_nl="materiaal borden">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10027</OXID-Merkmalssortierung>
+      <Variantenmerkmal>32</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Materialeigenschaft" Name="Materialeigenschaft" Name_nl="materiaaleigenschap">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10020</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Materialzusammensetzung" Name="Materialzusammensetzung" Name_nl="materiaalsamenstelling">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10021</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Plattenform" Name="Plattenform" Name_nl="bladvorm">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10037</OXID-Merkmalssortierung>
+      <Variantenmerkmal>11</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Reihenverbinder" Name="Reihenverbinder" Name_nl="rijverbinding">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10035</OXID-Merkmalssortierung>
+      <Variantenmerkmal>24</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Rollen" Name="Rollen" Name_nl="wielen">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10033</OXID-Merkmalssortierung>
+      <Variantenmerkmal>23</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Schließdämpfung" Name="Schließdämpfung" Name_nl="sluitdempers">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Selbsteinzug" Name="Selbsteinzug" Name_nl="zelfsluitsysteem">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Stuhlmerkmale" Name="Stuhlmerkmale" Name_nl="mechanisme">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10032</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Unterbau" Name="Unterbau" Name_nl="onderbouw">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10038</OXID-Merkmalssortierung>
+      <Variantenmerkmal>12</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Variante" Name="Variante" Name_nl="variant">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10029</OXID-Merkmalssortierung>
+      <Variantenmerkmal>7</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Zentralschließung" Name="Zentralschließung" Name_nl="centraal afsluitbaar">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Ausführung" Name="Ausführung" Name_nl="uitvoering">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Ausführung</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>uitvoering</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal>6</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Katalog-Seite-CH" Name="Katalog-Seite-CH" Name_nl="catalogus pagina CH">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Abschließbar" Name="Abschließbar" Name_nl="afsluitbaar">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Belastbarkeit_je_Schub" Name="Belastbarkeit je Schub" Name_nl="belastbaarheid per lade">
+      <Einheit>kg</Einheit>
+      <Einheit>kg</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Bodenausgleich" Name="Bodenausgleich" Name_nl="steldoppen">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Farbe_Griff" Name="Farbe Griff" Name_nl="kleur handgreep">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Material_Griff" Name="Material Griff" Name_nl="materiaal handgreep">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Material_Utensilienschub" Name="Material Utensilienschub" Name_nl="materiaal materiaallade">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Rollen_feststellbar" Name="Rollen feststellbar" Name_nl="blokkeerbare wielen">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10034</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Stuhlnavigator" Name="Stuhlnavigator" Name_nl="stoelnavigatie">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10002</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anzahl_Haken" Name="Anzahl Haken" Name_nl="aantal haken">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal>33</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Ablageleiste_inklusive" Name="Ablageleiste inklusive" Name_nl="Afleglijst inclusief">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anlieferung" Name="Anlieferung" Name_nl="levering">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anzahl_Ablageplatten" Name="Anzahl Ablageplatten" Name_nl="aantal legborden">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anzahl_Stützfüße" Name="Anzahl Stützfüße" Name_nl="aantal steunvoetjes">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anzahl_Türen" Name="Anzahl Türen" Name_nl="aantal deuren">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Beleuchtungsstärke" Name="Beleuchtungsstärke" Name_nl="lichtsterkte">
+      <Einheit>LUX</Einheit>
+      <Einheit>LUX</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Belüftung" Name="Belüftung" Name_nl="Produkteigenschappen">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal>34</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Beschreibbar" Name="Beschreibbar" Name_nl="beschrijvbaar">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Fachboden-Höhenraster" Name="Fachboden-Höhenraster" Name_nl="afstand verstelbaarheid">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Faltbar" Name="Faltbar" Name_nl="opvouwbaar">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Farbe_Gehäuse" Name="Farbe Gehäuse" Name_nl="kleur corpus">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal>2</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Farbe_Rahmen" Name="Farbe Rahmen" Name_nl="kleur frame">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Fuß" Name="Fuß" Name_nl="voet">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Glas" Name="Glas" Name_nl="glas">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Innenfach_Innentresor" Name="Innenfach/Innentresor" Name_nl="binnenvak/binnenkluis">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="LED-Lebensdauer_in_h" Name="LED-Lebensdauer in h" Name_nl="LED-levensduur in uren">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Lichtes_Maß" Name="Lichtes Maß" Name_nl="netto afmetingen">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Magnethaftend" Name="Magnethaftend" Name_nl="magneethoudend">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Mechanismus" Name="Mechanismus" Name_nl="mechanisme">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Mitteltrennwand" Name="Mitteltrennwand" Name_nl="centrale szcheidingswand">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Motorleistung" Name="Motorleistung" Name_nl="motorkracht">
+      <Einheit>Watt</Einheit>
+      <Einheit>Watt</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Nutzungsart" Name="Nutzungsart" Name_nl="gebruikswijze">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal>35</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Oberflächenbeschaffenheit" Name="Oberflächenbeschaffenheit" Name_nl="oppervlakteafwerking">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Regalart" Name="Regalart" Name_nl="reksoort">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Scharniere" Name="Scharniere" Name_nl="scharnieren">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Schlossart" Name="Schlossart" Name_nl="slotsoort">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal>37</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Schnittleistung_in_Blatt_DIN_A4_80g_m2" Name="Schnittleistung in Blatt DIN A4/80g/m2" Name_nl="snijcapaciteit in Din A4 bladen/80/gm²">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Tafelbreite" Name="Tafelbreite" Name_nl="tafelbreedte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Tafelhöhe" Name="Tafelhöhe" Name_nl="tafelhoogte">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Türanschlag" Name="Türanschlag" Name_nl="deuraanslag">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Türen" Name="Türen" Name_nl="deuren">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Türverriegelung" Name="Türverriegelung" Name_nl="deurvergrendeling">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Verwendung" Name="Verwendung" Name_nl="gebruik">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Energie-Label" Name="Energie-Label" Name_nl="energie-label">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Farbe_Deckel_Klappe" Name="Farbe Deckel/Klappe" Name_nl="kleur deksel/klep">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>999999</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Bestseller_Deskin" Name="Bestseller_Deskin" Name_nl="Bestseller_Deskin">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Kapazität" Name="Kapazität" Name_nl="capaciteit">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10051</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Produkt_Artikelname" Name="Produkt/Artikelname" Name_nl="naam">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Kurzbeschreibung_DESKIN" Name="Kurzbeschreibung DESKIN" Name_nl="korte beschrijving DESKIN">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Langbeschreibung_DESKIN" Name="Langbeschreibung DESKIN" Name_nl="lange beschrijving DESKIN">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Material_DESKIN" Name="Material DESKIN" Name_nl="materiaal DESKIN">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10019</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Produkt_Artikelname_DESKIN" Name="Produkt/Artikelname DESKIN" Name_nl="naam DESKIN">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Youtube-Film_DESKIN" Name="Youtube-Film DESKIN" Name_nl="Youtube-Film DESKIN">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Icons_DESKIN" Name="Icons_DESKIN" Name_nl="Icons_DESKIN">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Begehbar" Name="Begehbar" Name_nl="Begehbar">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Arbeitshöhe" Name="Arbeitshöhe" Name_nl="Arbeitshöhe">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Arbeitshöhe~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>Werkhoogte~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen>nein</OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal>90</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anzahl_Stufen_Sprossen" Name="Anzahl Stufen/Sprossen" Name_nl="Anzahl Stufen/Sprossen">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Anzahl Stufen</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>Anzahl Stufen</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen>nein</OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal>90</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Podesthöhe" Name="Podesthöhe" Name_nl="Podesthöhe">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal>90</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Marke" Name="Marke" Name_nl="merk">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="ID-TÜV-GS" Name="ID-TÜV-GS" Name_nl="ID-TÜV-GS">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Korpushöhe" Name="Korpushöhe" Name_nl="Korpushöhe">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Korpushöhe~~mm</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>Korpushöhe~~mm</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10099</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="für_Tischbreite" Name="für Tischbreite" Name_nl="für Tischbreite">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anzahl_Fächer" Name="Anzahl Fächer" Name_nl="Anzahl Fächer">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>99999</OXID-Merkmalssortierung>
+      <Variantenmerkmal>44</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Lieferoption" Name="Lieferoption" Name_nl="leveringsopties">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Lieferoption</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>Leveringsoption</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10045</OXID-Merkmalssortierung>
+      <Variantenmerkmal>10</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Stärke" Name="Stärke" Name_nl="Stärke">
+      <Einheit>µm</Einheit>
+      <Einheit>µm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Verpackungseinheit" Name="Verpackungseinheit" Name_nl="Verpackungseinheit">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anzahl_Einstellplätze" Name="Anzahl Einstellplätze" Name_nl="Anzahl Einstellplätze">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Ladefläche" Name="Ladefläche" Name_nl="Ladefläche">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen>ja</OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Mappenkapazität" Name="Mappenkapazität" Name_nl="Mappenkapazität">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10030</OXID-Merkmalssortierung>
+      <Variantenmerkmal>20</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Bodenplatte_" Name="Bodenplatte Ø" Name_nl="Bodenplatte Ø">
+      <Einheit>mm</Einheit>
+      <Einheit>mm</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Lux" Name="Lux " Name_nl="Lux ">
+      <Einheit>LUX</Einheit>
+      <Einheit>LUX</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="SET_Stückzahl" Name="SET Stückzahl" Name_nl="SET Stückzahl">
+      <Einheit>Stück</Einheit>
+      <Einheit>st.</Einheit>
+      <OXID-Merkmal_an_FACT-Finder></OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung></OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Höhe_(OH)" Name="Höhe (OH)" Name_nl="hoogte (OH)">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx></OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl></OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10080</OXID-Merkmalssortierung>
+      <Variantenmerkmal>20</Variantenmerkmal>
+    </Merkmalsdefinition>
+    <Merkmalsdefinition key="Anzahl_Personen_Sitzplätze" Name="Anzahl Personen/Sitzplätze" Name_nl="Anzahl Personen/Sitzplätze">
+      <Einheit></Einheit>
+      <Einheit></Einheit>
+      <OXID-Merkmal_an_FACT-Finder>ja</OXID-Merkmal_an_FACT-Finder>
+      <OXID-Merkmalsname_an_FACT-Finder_xx>Anzahl Personen/Sitzplätze</OXID-Merkmalsname_an_FACT-Finder_xx>
+      <OXID-Merkmalsname_an_FACT-Finder_nl>Aantal personen</OXID-Merkmalsname_an_FACT-Finder_nl>
+      <OXID-Merkmal_im_Warenkorb_anzeigen></OXID-Merkmal_im_Warenkorb_anzeigen>
+      <OXID-Merkmalssortierung>10085</OXID-Merkmalssortierung>
+      <Variantenmerkmal></Variantenmerkmal>
+    </Merkmalsdefinition>
+  </Merkmalsdefinitionen>
+  <Warengruppe uuid="18ad7fd052821ef90152828f75fd5fac" Name="Stühle" Name_nl="Stoelen" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+    <Merkmale>
+      <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+        <Wert>0</Wert>
+      </Merkmal>
+      <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+        <Wert>0</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>St&amp;uuml;hle</Wert_xx>
+        <Wert_nl>Stoelen</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <Produktliste></Produktliste>
+    <Artikelliste></Artikelliste>
+    <Warenuntergruppen>
+      <Warenuntergruppe Name="Bürodrehstühle" Name_nl="Bureaustoelen" uuid="18ad7fd052821ef90152829157f27b6a" Order_Nr="1" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+        <Merkmale>
+          <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+            <Wert_xx>B&amp;uuml;rodrehst&amp;uuml;hle</Wert_xx>
+            <Wert_nl>Stoelen</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+            <Wert_xx>&lt;P&gt;Drehst&amp;uuml;hle: System-Ergonomie by SHOP-X&lt;/P&gt;</Wert_xx>
+            <Wert_nl>&lt;P&gt;Draaistoelen: System ergonomie&lt;/P&gt;</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Cross_selling_title" Name="Cross-selling-title">
+            <Wert_xx>Entdecken Sie passende Artikel</Wert_xx>
+            <Wert_nl>Ontdek de bijbehorende artikelen</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Up-Selling-Title" Name="Up-Selling-Title">
+            <Wert_xx>Das k&amp;ouml;nnte f&amp;uuml;r Sie interessant sein</Wert_xx>
+            <Wert_nl>Zijn deze artikelen interessant voor u?</Wert_nl>
+          </Merkmal>
+        </Merkmale>
+        <Produktliste>
+          <Produkt key="99468718" Name="99468718" Order_Nr="1" fuer_Land="Deutschland, Belgien, Schweiz">
+            <Artikelliste>
+              <Artikel key="468720" Order_Nr="1" Name="468720" fuer_Land="Deutschland, Belgien, Schweiz"></Artikel>
+              <Artikel key="468718" Order_Nr="2" Name="468718" fuer_Land="Deutschland, Belgien, Schweiz"></Artikel>
+              <Artikel key="468721" Order_Nr="3" Name="468721" fuer_Land="Deutschland, Belgien, Schweiz"></Artikel>
+              <Artikel key="468719" Order_Nr="4" Name="468719" fuer_Land="Deutschland, Belgien, Schweiz"></Artikel>
+            </Artikelliste>
+          </Produkt>
+        </Produktliste>
+        <Artikelliste>
+          <Artikel key="468720" Name="468720" Order_Nr="102" fuer_Land="Deutschland, Belgien"></Artikel>
+        </Artikelliste>
+        <Warenuntergruppen></Warenuntergruppen>
+      </Warenuntergruppe>
+      <Warenuntergruppe Name="Drehstühle" Name_nl="Bureaustoelen" uuid="18ad7fd052821ef90152829158217bd2" Order_Nr="5" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+        <Merkmale>
+          <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+            <Wert_xx>Leitstellen-Drehst&amp;uuml;hle</Wert_xx>
+            <Wert_nl>Bureaustoelen</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+            <Wert_xx>Unroll their fire.</Wert_xx>
+            <Wert_nl>Unroll their fire.</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Cross_selling_title" Name="Cross-selling-title">
+            <Wert_xx>Entdecken Sie passende Artikel</Wert_xx>
+            <Wert_nl>Ontdek de bijbehorende artikelen</Wert_nl>
+          </Merkmal>
+        </Merkmale>
+        <Produktliste>
+          <Produkt key="99385565" Name="99385565" Order_Nr="1" fuer_Land="Deutschland">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+          <Produkt key="99767788" Name="99767788" Order_Nr="2" fuer_Land="Deutschland, Belgien">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+            <Produkt key="99208031" Name="99208031" Order_Nr="3" fuer_Land="Deutschland, Belgien">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+        </Produktliste>
+        <Artikelliste></Artikelliste>
+        <Warenuntergruppen></Warenuntergruppen>
+      </Warenuntergruppe>
+      <Warenuntergruppe Name="Drehstühle für Labor" Name_nl="Artsen- en kliniekstoelen" uuid="18ad7fd052821ef901528291589d7d16" Order_Nr="6" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+        <Merkmale>
+          <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+            <Wert_xx>Drehst&amp;uuml;hle f&amp;uuml;r Labor</Wert_xx>
+            <Wert_nl>Artsen- en kliniekstoelen</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+            <Wert_xx>&lt;P&gt;Spezialsortiment: Ideal f&amp;uuml;r Kliniken &lt;/P&gt;</Wert_xx>
+            <Wert_nl>&lt;P&gt;Speciaal aanbod: Ideaal voor klinieken &lt;/P&gt;</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Cross_selling_title" Name="Cross-selling-title">
+            <Wert_xx>Entdecken Sie passende Artikel</Wert_xx>
+            <Wert_nl>Ontdek de bijbehorende artikelen</Wert_nl>
+          </Merkmal>
+        </Merkmale>
+        <Produktliste>
+          <Produkt key="99204200" Name="99204200" Order_Nr="1" fuer_Land="Deutschland, Belgien">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+          <Produkt key="99204760" Name="99204760" Order_Nr="2" fuer_Land="Deutschland, Belgien, Schweiz">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+          <Produkt key="99209624" Name="99209624" Order_Nr="3" fuer_Land="Deutschland, Belgien, Schweiz">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+          <Produkt key="99385561" Name="99385561" Order_Nr="4" fuer_Land="Deutschland, Belgien, Schweiz">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+        </Produktliste>
+        <Warenuntergruppen></Warenuntergruppen>
+      </Warenuntergruppe>
+      <Warenuntergruppe Name="Arbeitsstühle" Name_nl="Werkstoelen" uuid="18ad7fd052821ef90152829158cc7d86" Order_Nr="7" fuer_Land="Deutschland, Belgien" sichtbar="Ja">
+        <Merkmale>
+          <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+            <Wert_xx>Arbeitsst&amp;uuml;hle</Wert_xx>
+            <Wert_nl>Werkstoelen</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+            <Wert_xx>&lt;P&gt;Robust und ergonomisch&lt;/P&gt;</Wert_xx>
+            <Wert_nl>&lt;P&gt;Robuust en ergonomisch&lt;/P&gt;</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Cross_selling_title" Name="Cross-selling-title">
+            <Wert_xx>Entdecken Sie passende Artikel</Wert_xx>
+            <Wert_nl>Ontdek de bijbehorende artikelen</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Warengruppen_Icon" Name="Warengruppen-Icon"></Merkmal>
+        </Merkmale>
+        <Produktliste>
+          <Produkt key="99767880" Name="99767880" Order_Nr="1" fuer_Land="Deutschland, Belgien">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+          <Produkt key="99374694" Name="99374694" Order_Nr="2" fuer_Land="Deutschland, Belgien">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+          <Produkt key="99920582" Name="99920582" Order_Nr="3" fuer_Land="Deutschland, Belgien">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+          <Produkt key="99220768" Name="99220768" Order_Nr="4" fuer_Land="Deutschland, Belgien">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+        </Produktliste>
+        <Artikelliste></Artikelliste>
+        <Warenuntergruppen></Warenuntergruppen>
+      </Warenuntergruppe>
+      <Warenuntergruppe Name="Bodenschutzmatten und Fußstützen" Name_nl="Beschermmatten/voetensteunen" uuid="18ad7fd052821ef90152829158fb7df8" Order_Nr="8" fuer_Land="Deutschland, Belgien" sichtbar="Ja">
+        <Merkmale>
+          <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+            <Wert_xx>Bodenschutzmatten und Fu&amp;szlig;st&amp;uuml;tzen</Wert_xx>
+            <Wert_nl>Beschermmatten/voetensteunen</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+            <Wert_xx>&lt;P&gt;Zubeh&amp;ouml;r: Bodenschutzmatten und Fu&amp;szlig;st&amp;uuml;tzen&lt;/P&gt;</Wert_xx>
+            <Wert_nl>&lt;P&gt;Accessoires: beschermmatten en voetensteunen&lt;/P&gt;</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Cross_selling_title" Name="Cross-selling-title">
+            <Wert_xx></Wert_xx>
+            <Wert_nl></Wert_nl>
+          </Merkmal>
+        </Merkmale>
+        <Produktliste>
+          <Produkt key="99208547" Name="99208547" Order_Nr="1" fuer_Land="Deutschland, Belgien">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+          <Produkt key="99768503" Name="99768503" Order_Nr="2" fuer_Land="Deutschland, Belgien">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+          <Produkt key="99768209" Name="99768209" Order_Nr="3" fuer_Land="Deutschland, Belgien">
+            <Artikelliste></Artikelliste>
+          </Produkt>
+        </Produktliste>
+        <Warenuntergruppen></Warenuntergruppen>
+      </Warenuntergruppe>
+    </Warenuntergruppen>
+  </Warengruppe>
+    <Warengruppe uuid="57zu7fd052821ef04185b28f75bf5f43" Name="Büromöbel-Systeme" Name_nl="Bureaumeubel-systemen" fuer_Land="Deutschland, Belgien, Schweiz" Warengruppen_Template="/page/list/list_bueromoebelsysteme.tpl" sichtbar="Ja">
+    <Merkmale>
+      <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+        <Wert>0</Wert>
+      </Merkmal>
+      <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+        <Wert>0</Wert>
+      </Merkmal>
+      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+        <Wert_xx>B&amp;uuml;rom&amp;ouml;bel-Systeme</Wert_xx>
+        <Wert_nl>Bureaumeubel-systemen</Wert_nl>
+      </Merkmal>
+      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+        <Wert_xx></Wert_xx>
+        <Wert_nl></Wert_nl>
+      </Merkmal>
+      <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+        <Wert_xx>&lt;P&gt;Yeah, well, I still don't understand what Dad was doing in the middle of the street. Hey kid, what you do, jump ship? Well, now we gotta sneak this back into my laboratory, we've gotta get you home. he's an idiot, comes from upbringing, parents were probably idiots too. Lorraine, if you ever have a kid like that, I'll disown you. Right about here.&lt;/P&gt;</Wert_xx>
+        <Wert_nl>&lt;P&gt;Yeah, well, I still don't understand what Dad was doing in the middle of the street. Hey kid, what you do, jump ship? Well, now we gotta sneak this back into my laboratory, we've gotta get you home. he's an idiot, comes from upbringing, parents were probably idiots too. Lorraine, if you ever have a kid like that, I'll disown you. Right about here.&lt;/P&gt;</Wert_nl>
+      </Merkmal>
+    </Merkmale>
+    <Produktliste></Produktliste>
+    <Artikelliste></Artikelliste>
+    <Warenuntergruppen>
+      <Warenuntergruppe Name="Professionell" Name_nl="Professioneel" uuid="57zu7fd052821ef04185b291674d1de2" Order_Nr="1" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+        <Merkmale>
+          <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+            <Wert>0</Wert>
+          </Merkmal>
+          <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+            <Wert_xx>Professionell</Wert_xx>
+            <Wert_nl>Professioneel</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+            <Wert_xx>&lt;P&gt;Entdecken Sie unsere professionellen B&amp;uuml;rom&amp;ouml&lt;/P&gt;</Wert_xx>
+            <Wert_nl>&lt;P&gt;Ontdeck onze professionele bureumeubelsystemen&lt;/P&gt;</Wert_nl>
+          </Merkmal>
+          <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+            <Wert_xx></Wert_xx>
+            <Wert_nl></Wert_nl>
+          </Merkmal>
+        </Merkmale>
+        <Produktliste></Produktliste>
+        <Artikelliste></Artikelliste>
+        <Warenuntergruppen>
+          <Warenuntergruppe Name="Professionelle Büromöbelsysteme Holz" Name_nl="Profi bureaumeubelsystemen hout" uuid="408181236a9c69fb016afd3211fb4b30" Order_Nr="1" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+            <Merkmale>
+              <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+                <Wert>0</Wert>
+              </Merkmal>
+              <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+                <Wert>0</Wert>
+              </Merkmal>
+              <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+                <Wert_xx>Professionelle B&amp;uuml;rom&amp;ouml;belsysteme Holz</Wert_xx>
+                <Wert_nl>Profi bureaumeubelsystemen hout</Wert_nl>
+              </Merkmal>
+              <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+                <Wert_xx></Wert_xx>
+                <Wert_nl></Wert_nl>
+              </Merkmal>
+              <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+                <Wert_xx></Wert_xx>
+                <Wert_nl></Wert_nl>
+              </Merkmal>
+            </Merkmale>
+            <Produktliste></Produktliste>
+            <Artikelliste></Artikelliste>
+          </Warenuntergruppe>
+          <Warenuntergruppe Name="Professionelle Büromöbelsysteme Stahl" Name_nl="Profi bureaumeubelsystemen staal" uuid="408181236a9c69fb016afd387cac659f" Order_Nr="2" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+            <Merkmale>
+              <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+                <Wert>0</Wert>
+              </Merkmal>
+              <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+                <Wert>0</Wert>
+              </Merkmal>
+              <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+                <Wert_xx>Professionelle B&amp;uuml;rom&amp;ouml;belsysteme Stahl</Wert_xx>
+                <Wert_nl>Profi bureaumeubelsystemen staal</Wert_nl>
+              </Merkmal>
+              <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+                <Wert_xx></Wert_xx>
+                <Wert_nl></Wert_nl>
+              </Merkmal>
+              <Merkmal key="Langbeschreibung" Name="Langbeschreibung">
+                <Wert_xx></Wert_xx>
+                <Wert_nl></Wert_nl>
+              </Merkmal>
+            </Merkmale>
+            <Produktliste></Produktliste>
+            <Artikelliste></Artikelliste>
+            <Warenuntergruppen>
+              <Warenuntergruppe Name="MEGA LINE" Name_nl="MEGA LINE" uuid="57zu7fd052821ef04185b29174c53bcc" Order_Nr="1" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+                <Merkmale>
+                  <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+                    <Wert>0</Wert>
+                  </Merkmal>
+                  <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+                    <Wert>0</Wert>
+                  </Merkmal>
+                  <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+                    <Wert_xx>MEGA LINE</Wert_xx>
+                    <Wert_nl>MEGA LINE</Wert_nl>
+                  </Merkmal>
+                  <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+                    <Wert_xx>&lt;P&gt;MEGA LINE - Vielseitig, belastbar und zuverl&amp;auml;ssig - Das ist das Stahlm&amp;ouml;belsystem MEGA LINE&lt;/P&gt;</Wert_xx>
+                    <Wert_nl>&lt;P&gt;Super stabiel en universeel toepasbare kwaliteit staal voor elke kantoorapparatuur, robuust en goedkoop. 5 jaar garantie&lt;/P&gt;</Wert_nl>
+                  </Merkmal>
+                  <Merkmal key="SEO-URL" Name="SEO-URL">
+                    <Wert_xx></Wert_xx>
+                    <Wert_nl></Wert_nl>
+                  </Merkmal>
+                  <Merkmal key="Cross_selling_title" Name="Cross-selling-title">
+                    <Wert_xx>Erg&amp;auml;nzen Sie Ihr MEGA LINE B&amp;uuml;rom&amp;ouml;belsystem</Wert_xx>
+                    <Wert_nl>Vul Uw MEGA LINE Systeem</Wert_nl>
+                  </Merkmal>
+                </Merkmale>
+                <Produktliste></Produktliste>
+                <Artikelliste></Artikelliste>
+                <Warenuntergruppen>
+                  <Warenuntergruppe Name="Schreibtische MEGA LINE" Name_nl="Tafels MEGA LINE" uuid="57zu7fd052821ef04185b2917b3a4a0e" Order_Nr="1" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+                    <Merkmale>
+                      <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+                        <Wert>0</Wert>
+                      </Merkmal>
+                      <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+                        <Wert>0</Wert>
+                      </Merkmal>
+                      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+                        <Wert_xx>Schreibtische MEGA LINE</Wert_xx>
+                        <Wert_nl>Tafels MEGA LINE</Wert_nl>
+                      </Merkmal>
+                      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+                        <Wert_xx>&lt;P&gt;F&amp;uuml;r gr&amp;ouml;&amp;szlig;te Variation: 5 verschiedene Gestell-Varianten, 5 verschiedene Plattenbreiten und eine Vielzahl an Plattenformen und Verkettungen bieten eine individuelle Gestaltung Ihrer Arbeitspl&amp;auml;tze.&lt;/P&gt;</Wert_xx>
+                        <Wert_nl>&lt;P&gt;Enorme arbeidsplaatsen tegen een aantrekkelijke prijs&lt;/P&gt;</Wert_nl>
+                      </Merkmal>
+                      <Merkmal key="SEO-URL" Name="SEO-URL">
+                        <Wert_xx></Wert_xx>
+                        <Wert_nl></Wert_nl>
+                      </Merkmal>
+                      <Merkmal key="Cross_selling_title" Name="Cross-selling-title">
+                        <Wert_xx>Erg&amp;auml;nzen Sie Ihr MEGA LINE B&amp;uuml;rom&amp;ouml;belsystem</Wert_xx>
+                        <Wert_nl>Vul Uw MEGA LINE Systeem</Wert_nl>
+                      </Merkmal>
+                      <Merkmal key="Warengruppen_Icon" Name="Warengruppen-Icon">
+                        <Wert>file://01_BL_KM_AH_002.jpg</Wert>
+                      </Merkmal>
+                    </Merkmale>
+                    <Produktliste>
+                      <Produkt key="99207354" Name="99207354" Order_Nr="1" fuer_Land="Deutschland, Belgien, Schweiz">
+                        <Artikelliste></Artikelliste>
+                      </Produkt>
+                      <Produkt key="99426370" Name="99426370" Order_Nr="2" fuer_Land="Deutschland, Belgien, Schweiz">
+                        <Artikelliste></Artikelliste>
+                      </Produkt>
+                    </Produktliste>
+                    <Artikelliste></Artikelliste>
+                  </Warenuntergruppe>
+                  <Warenuntergruppe Name="Container" Name_nl="Container" uuid="57zu7fd052821ef04185b2917b694a78" Order_Nr="2" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+                    <Merkmale>
+                      <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+                        <Wert>0</Wert>
+                      </Merkmal>
+                      <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+                        <Wert>0</Wert>
+                      </Merkmal>
+                      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+                        <Wert_xx>Container MEGA LINE</Wert_xx>
+                        <Wert_nl>Container MEGA LINE</Wert_nl>
+                      </Merkmal>
+                      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+                        <Wert_xx>&lt;P&gt;Rollcontainer sind cool!!!&lt;/P&gt;</Wert_xx>
+                        <Wert_nl>&lt;P&gt;Stabiel en veelzijdig&lt;/P&gt;</Wert_nl>
+                      </Merkmal>
+                      <Merkmal key="SEO-URL" Name="SEO-URL">
+                        <Wert_xx></Wert_xx>
+                        <Wert_nl></Wert_nl>
+                      </Merkmal>
+                      <Merkmal key="Cross_selling_title" Name="Cross-selling-title">
+                        <Wert_xx>Erg&amp;auml;nzen </Wert_xx>
+                        <Wert_nl>Systeem</Wert_nl>
+                      </Merkmal>
+                    </Merkmale>
+                    <Produktliste>
+                      <Produkt key="99377468" Name="99377468" Order_Nr="1" fuer_Land="Deutschland, Belgien, Schweiz">
+                        <Artikelliste></Artikelliste>
+                      </Produkt>
+                    </Produktliste>
+                    <Artikelliste></Artikelliste>
+                  </Warenuntergruppe>
+                  <Warenuntergruppe Name="Schränke und Regale" Name_nl="Kasten en rekken" uuid="57zu7fd052821ef04185b2917b984ae4" Order_Nr="3" fuer_Land="Deutschland, Belgien, Schweiz" sichtbar="Ja">
+                    <Merkmale>
+                      <Merkmal key="Warengruppentyp" Name="Warengruppentyp">
+                        <Wert>0</Wert>
+                      </Merkmal>
+                      <Merkmal key="Warengruppentyp_SET-Artikel" Name="Warengruppentyp SET-Artikel">
+                        <Wert>0</Wert>
+                      </Merkmal>
+                      <Merkmal key="Produkt_Artikelname" Name="Produkt/Artikelname">
+                        <Wert_xx>Schr&amp;auml;nke und Regale</Wert_xx>
+                        <Wert_nl>Kasten en rekken</Wert_nl>
+                      </Merkmal>
+                      <Merkmal key="Kurzbeschreibung" Name="Kurzbeschreibung">
+                        <Wert_xx>&lt;P&gt;AAlright, take it up, go. Doc. It's about the future, isn't it? Alright, take it up, go. Doc. I gotta go, uh, I gotta go. Thanks very much, it was wonderful, you were all great. See you all later, much later. Whoa, whoa, Biff, what's that?&lt;/P&gt;</Wert_xx>
+                        <Wert_nl>&lt;P&gt;AAlright, take it up, go&lt;/P&gt;</Wert_nl>
+                      </Merkmal>
+                      
+                      <Merkmal key="Cross_selling_title" Name="Cross-selling-title">
+                        <Wert_xx>Erg&amp;auml;nzen Sie Ihr Stella</Wert_xx>
+                        <Wert_nl>Vul Uw Systeem</Wert_nl>
+                      </Merkmal>
+                    </Merkmale>
+                    <Produktliste>
+                      <Produkt key="99208445" Name="99208445" Order_Nr="1" fuer_Land="Deutschland, Belgien, Schweiz">
+                        <Artikelliste></Artikelliste>
+                      </Produkt>
+                    </Produktliste>
+                    <Artikelliste></Artikelliste>
+                  </Warenuntergruppe>
+                </Warenuntergruppen>
+              </Warenuntergruppe>
+            </Warenuntergruppen>
+          </Warenuntergruppe>
+        </Warenuntergruppen>
+      </Warenuntergruppe>
+    </Warenuntergruppen>
+
+  </Warengruppe>
+</Root>
