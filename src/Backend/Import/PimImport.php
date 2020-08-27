@@ -223,44 +223,10 @@ class PimImport
             $this->cleanupArticleStructure($oStrukturXML);
         }
 
-        $this->clearCache();
         if (!in_array($this->type, ['p', 'b', 'nl'])) {
             $this->prepareLongDescs();
         }
         echo 'Ende Cleanup' . PHP_EOL;
-    }
-
-    protected function clearCache()
-    {
-        $this->_oLog->debug('Leere Cache');
-        $this->deleteDirectory(getShopBasePath() . '/tmp');
-        $this->deleteDirectory(getShopBasePath() . '/cache');
-        mkdir(getShopBasePath() . '/tmp');
-        mkdir(getShopBasePath() . '/cache');
-    }
-
-    protected function deleteDirectory($dir)
-    {
-        if (!file_exists($dir)) {
-            return true;
-        }
-
-        if (!is_dir($dir)) {
-            return unlink($dir);
-        }
-
-        foreach (scandir($dir) as $item) {
-            if ($item == '.' || $item == '..') {
-                continue;
-            }
-
-            if (!$this->deleteDirectory($dir . DIRECTORY_SEPARATOR . $item)) {
-                return false;
-            }
-
-        }
-
-        return rmdir($dir);
     }
 
     /**
