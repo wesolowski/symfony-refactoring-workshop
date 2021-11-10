@@ -1,5 +1,6 @@
 # Workshop: Symfony and refactoring
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/wesolowski/symfony-refactoring-workshop/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/wesolowski/symfony-refactoring-workshop/?branch=master)
 
 ###### Technical Requirements
 
@@ -47,4 +48,5 @@ symfony serve:start
 Now you can see the shop:
 
 Start: <https://localhost:8080/>  
+
 
